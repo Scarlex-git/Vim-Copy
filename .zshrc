@@ -75,4 +75,4 @@ bindkey '^e' edit-command-line
 [ -f "$HOME/.config/aliasrc" ] && source "$HOME/.config/aliasrc"
 
 # Load zsh-syntax-highlighting; should be last.
-source /home/scarlex/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/scarlex/.config/zsh/
