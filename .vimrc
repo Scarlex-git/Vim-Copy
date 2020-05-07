@@ -10,11 +10,11 @@ set cursorline
 call plug#begin('~/.vim/plugged')
  
  
-inoremap ( ()<left>
-inoremap [ []<left>
-inoremap { {}<left>
-inoremap {<CR> {<CR>}<ESC>O
-inoremap {;<CR> {<CR>};<ESC>O
+"inoremap ( ()<left>
+"inoremap [ []<left>
+"inoremap { {}<left>
+"inoremap {<CR> {<CR>}<ESC>O
+"inoremap {;<CR> {<CR>};<ESC>O
 set foldmethod=manual
 "Enable folding using the spacebar
 nnoremap <space> za
@@ -200,7 +200,7 @@ nnoremap <silent> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
 nnoremap <silent> <space>p  :<C-u>CocListResume<CR>
 " render properly when inside 256-color tmux and GNU screen.
-if &term =~ '256color'
-    set t_ut=
+if (&term =~ '^xterm' && &t_Co == 256)
+  set t_ut= | set ttyscroll=1
 endif
 call plug#end()                 " required
