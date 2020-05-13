@@ -1,0 +1,238 @@
+{
+   "brightnessViewDescription": {
+      "message": "Настройките яркостта чрез премстване на плъжгача по долу."
+   },
+   "brightnessViewTitle": {
+      "message": "Яркост"
+   },
+   "colorViewDescription": {
+      "message": "Изберете цвят от уебсайт и го променете според вашите желания."
+   },
+   "colorViewOriginalColor": {
+      "description": "original color",
+      "message": "Оригинален"
+   },
+   "colorViewReplacedColor": {
+      "description": " replaced color",
+      "message": "Заменен"
+   },
+   "colorViewTitle": {
+      "message": "Избор на цвят"
+   },
+   "contrastViewDescription": {
+      "message": "Настройките контраста чрез премстване на плъжгача по долу."
+   },
+   "contrastViewTitle": {
+      "message": "Контраст"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "всички сайтове"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Приложи"
+   },
+   "controlsPanelButtonApplyTo": {
+      "description": "Apply to all websites",
+      "message": "Приложи за"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Отмени"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Възстанови"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "description": "Restore defaults for all websites",
+      "message": "Възстанови"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "текущия сайт"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "за всички сайтове"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "за текущия сайт"
+   },
+   "dimViewDescription": {
+      "message": "Настройте нивото на затъмненост на сайта."
+   },
+   "dimViewTitle": {
+      "message": "Затъмненост"
+   },
+   "extDescription": {
+      "message": "Night Eye включва нощен режим на всeки сайт, използвайки нов алгоритъм за анализ и конвертиране на цветовете."
+   },
+   "extDisabledStatus": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye е изключен"
+   },
+   "extName": {
+      "message": "Night Eye - Нощен режим за всеки сайт"
+   },
+   "extToggleButton": {
+      "message": "Сменя между нощен и светъл режим на сайта"
+   },
+   "extTurnOnButton": {
+      "message": "Включи"
+   },
+   "filterModeNameDark": {
+      "message": "Тъмен"
+   },
+   "filterModeNameFiltered": {
+      "message": "Филтриран"
+   },
+   "filterModeNameNormal": {
+      "message": "Светъл"
+   },
+   "firstRunViewFeature1": {
+      "message": "Повлиява на скоростта на зареждане на страниците"
+   },
+   "firstRunViewFeature2": {
+      "message": "Използвай 3 месеца БЕЗПЛАТНО\u003Cbr>След това по $$9/годишно"
+   },
+   "firstRunViewFeature3": {
+      "message": "Не събираме никаква информация"
+   },
+   "firstRunViewFeature4": {
+      "message": "Свържете се с нас, чрез вградения ни чат"
+   },
+   "firstRunViewTitle": {
+      "message": "Какво трябва да знаете"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Изберете режим за отваряне на нов таб"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Режим по подразбиране"
+   },
+   "helpViewHelpButton": {
+      "message": "Помощ"
+   },
+   "helpViewShortcutDescription": {
+      "message": "Разберете как да си настроите собствена клавишна комбинация"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Включено/Изключено клавишна комбинация"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Намерете Night Eye в списъка с приставки и натиснете изтрий"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Премахване на приложението"
+   },
+   "imageViewDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye обработва снимките, за да ги направи по-тъмни.Тази промяна изисква повече изчистлителна мощ, затова може да усещате забавяне на компютъра."
+   },
+   "imageViewTitle": {
+      "message": "Снимки"
+   },
+   "labelBlueLight": {
+      "message": "синя светлина"
+   },
+   "labelBrightness": {
+      "message": "яркост"
+   },
+   "labelColors": {
+      "message": "цветове"
+   },
+   "labelContinue": {
+      "message": "Продължи"
+   },
+   "labelContrast": {
+      "message": "контраст"
+   },
+   "labelCurrent": {
+      "description": "Current website",
+      "message": "Текущ"
+   },
+   "labelDim": {
+      "message": "затъмненост"
+   },
+   "labelExperimentalFeature": {
+      "message": "Експериментална функционалност"
+   },
+   "labelImages": {
+      "message": "снимки"
+   },
+   "labelPleaseWait": {
+      "message": "Моля изчакайте"
+   },
+   "labelSaturation": {
+      "message": "наситеност"
+   },
+   "labelWebsite": {
+      "description": "Current website",
+      "message": "уебсайт"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Тъмна версия"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Филтрирана версия"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Нормална версия"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Не се поддържа"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Този уебсайт не се поддържа"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "refreshButton": {
+      "description": "Refresh current page - this is button",
+      "message": "Презареди"
+   },
+   "refreshViewDescription": {
+      "message": "Трябва да презаредите страницата, за да може да се видят последните промени."
+   },
+   "refreshViewTitle": {
+      "message": "Моля, презаредете страницата."
+   },
+   "saturationViewDescription": {
+      "message": "Настройките наситеността чрез премстване на плъжгача по долу."
+   },
+   "saturationViewTitle": {
+      "message": "Наситеност"
+   },
+   "supportViewInfo1": {
+      "message": "Ние сме тук, за да ви помогнем, ако имате някакви проблеми или въпроси с Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "За да използвате нашата система за комуникация е необходимо да предоставите информация за връзка."
+   },
+   "supportViewInfo3": {
+      "message": "Пишете само на английски."
+   },
+   "supportViewInputEmail": {
+      "message": "Имейл"
+   },
+   "supportViewInputName": {
+      "message": "Име"
+   },
+   "switchLabelOff": {
+      "description": "Switch is Off",
+      "message": "Изключено"
+   },
+   "switchLabelOn": {
+      "description": "Switch is On",
+      "message": "Включено"
+   },
+   "temperatureViewDescription": {
+      "message": "Настройте нивото на синия свят посредство плъзгача по долу."
+   },
+   "temperatureViewOption1": {
+      "message": "С синьо"
+   },
+   "temperatureViewOption2": {
+      "message": "Без синьо"
+   },
+   "temperatureViewTitle": {
+      "message": "Синя светлина"
+   }
+}

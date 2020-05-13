@@ -1,0 +1,240 @@
+{
+   "brightnessViewDescription": {
+      "message": "Ajuste a luminosidade arrastando a barra abaixo."
+   },
+   "brightnessViewTitle": {
+      "message": "Luminosidade"
+   },
+   "colorViewDescription": {
+      "message": "Escolha uma cor de um site e altere-a conforme desejar."
+   },
+   "colorViewOriginalColor": {
+      "description": "original color",
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "description": " replaced color",
+      "message": "Substituída"
+   },
+   "colorViewTitle": {
+      "message": "Escolher cor"
+   },
+   "contrastViewDescription": {
+      "message": "Ajuste o contraste arrastando a barra abaixo."
+   },
+   "contrastViewTitle": {
+      "message": "Contraste"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "todos os sites"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Aplicar"
+   },
+   "controlsPanelButtonApplyTo": {
+      "description": "Apply to all websites",
+      "message": "Aplicar a"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Cancelar"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Reiniciar"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "description": "Restore defaults for all websites",
+      "message": "Restaurar definições padrão"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "site atual"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "a todos os sites"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "ao site atual"
+   },
+   "dimViewDescription": {
+      "message": "Ajuste o nível de turvação de todos os sites."
+   },
+   "dimViewTitle": {
+      "message": "Fosco"
+   },
+   "extDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "O Night Eye ativa o modo noturno em qualquer site usando um algoritmo novo que analisa e converte todas as cores em vez de as inverter."
+   },
+   "extDisabledStatus": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "O Night Eye está desativado"
+   },
+   "extName": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye - Modo escuro em qualquer site"
+   },
+   "extToggleButton": {
+      "message": "Alterne entre os modos normal e escuro no separador"
+   },
+   "extTurnOnButton": {
+      "message": "Ativar"
+   },
+   "filterModeNameDark": {
+      "message": "Escuro"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrado"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Afeta a velocidade de carregamento em algumas páginas"
+   },
+   "firstRunViewFeature2": {
+      "message": "Aproveite 3 meses de graça\u003Cbr>Depois - apenas 9 $/ano"
+   },
+   "firstRunViewFeature3": {
+      "message": "Não são recolhidas informações de navegação"
+   },
+   "firstRunViewFeature4": {
+      "message": "Entre em contacto com a nossa equipa de atendimento usando a sala de chat incorporada"
+   },
+   "firstRunViewTitle": {
+      "message": "Início rápido"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Escolha o modo predefinido para ser executado ao abrir novos sites"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Modo predefinido"
+   },
+   "helpViewHelpButton": {
+      "message": "Ajuda"
+   },
+   "helpViewShortcutDescription": {
+      "message": "Saiba o que fazer para atribuir o seu próprio atalho"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Atalho Ativar/Desativar"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Encontre o Night Eye na lista de extensões e clique em remover"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Desinstalar"
+   },
+   "imageViewDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "O Night Eye processa as imagens, tornando-as mais escuras. Esta funcionalidade requer mais recursos informáticos e pode deixar o computador mais lento."
+   },
+   "imageViewTitle": {
+      "message": "Imagens"
+   },
+   "labelBlueLight": {
+      "message": "luz azul"
+   },
+   "labelBrightness": {
+      "message": "luminosidade"
+   },
+   "labelColors": {
+      "message": "cores"
+   },
+   "labelContinue": {
+      "message": "Continuar"
+   },
+   "labelContrast": {
+      "message": "contraste"
+   },
+   "labelCurrent": {
+      "description": "Current website",
+      "message": "Atual"
+   },
+   "labelDim": {
+      "message": "fosco"
+   },
+   "labelExperimentalFeature": {
+      "message": "Funcionalidade experimental"
+   },
+   "labelImages": {
+      "message": "imagens"
+   },
+   "labelPleaseWait": {
+      "message": "Aguarde"
+   },
+   "labelSaturation": {
+      "message": "saturação"
+   },
+   "labelWebsite": {
+      "description": "Current website",
+      "message": "site"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Versão escura"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Versão filtrada"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Versão normal"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Não suportado"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Este site não é suportado"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "refreshButton": {
+      "description": "Refresh current page - this is button",
+      "message": "Atualizar"
+   },
+   "refreshViewDescription": {
+      "message": "Tem de atualizar a página atual para aplicar as definições mais recentes"
+   },
+   "refreshViewTitle": {
+      "message": "Recarregue a página"
+   },
+   "saturationViewDescription": {
+      "message": "Ajuste a saturação arrastando a barra abaixo."
+   },
+   "saturationViewTitle": {
+      "message": "Saturação"
+   },
+   "supportViewInfo1": {
+      "message": "Estamos aqui para ajudar se surgirem dúvidas ou problemas com o Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Para usar o nosso sistema de suporte, forneça informações de contacto corretas."
+   },
+   "supportViewInfo3": {
+      "message": "Envie-nos mensagens apenas em inglês."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Nome"
+   },
+   "switchLabelOff": {
+      "description": "Switch is Off",
+      "message": "Desligado"
+   },
+   "switchLabelOn": {
+      "description": "Switch is On",
+      "message": "Ligado"
+   },
+   "temperatureViewDescription": {
+      "message": "Ajuste a luz azul arrastando a barra abaixo."
+   },
+   "temperatureViewOption1": {
+      "message": "Luz azul"
+   },
+   "temperatureViewOption2": {
+      "message": "Sem azul"
+   },
+   "temperatureViewTitle": {
+      "message": "Luz azul"
+   }
+}

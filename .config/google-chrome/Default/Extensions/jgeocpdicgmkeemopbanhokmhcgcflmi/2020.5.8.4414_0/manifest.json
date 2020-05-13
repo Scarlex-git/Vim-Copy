@@ -1,0 +1,55 @@
+{
+   "app": {
+      "display_mode": "browser",
+      "icon_color": "#1EA2F3",
+      "launch": {
+         "web_url": "https://twitter.com/?utm_source=homescreen&utm_medium=shortcut"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png"
+      }, {
+         "size": 48,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png"
+      }, {
+         "size": 64,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png"
+      }, {
+         "size": 96,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png"
+      }, {
+         "size": 128,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png"
+      }, {
+         "size": 192,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default.3c3b2244.png"
+      }, {
+         "size": 256,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default-large.67500504.png"
+      }, {
+         "size": 512,
+         "url": "https://abs.twimg.com/responsive-web/web/icon-default-large.67500504.png"
+      } ],
+      "theme_color": "rgba(255,255,255,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "x3XPFFZ95k90ZlqjkZGCj9nHdLiuS30xgR6A048TybQ=",
+   "name": "Twitter",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://twitter.com/*" ],
+         "title": "Twitter"
+      }
+   },
+   "version": "2020.5.8.4414"
+}

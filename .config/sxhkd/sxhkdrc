@@ -121,7 +121,6 @@ super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
 # Increase audio
-# p> 
 XF86AudioRaiseVolume
 	amixer set Master 2%+
 
@@ -132,3 +131,8 @@ XF86AudioLowerVolume
 # Mute audio
 XF86AudioMute
 	amixer set Master toggle
+
+#Take a screenshot
+Print
+	sleep 0.2; \
+	import -window root ~/Pictures/$(date '+%Y%m%d-%H%M%S').png

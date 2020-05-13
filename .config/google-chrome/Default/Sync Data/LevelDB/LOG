@@ -1,0 +1,18 @@
+2020/05/13-12:42:00.494 254 Reusing MANIFEST /home/scarlex/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/13-12:42:00.494 254 Recovering log #35
+2020/05/13-12:42:00.495 254 Reusing old log /home/scarlex/.config/google-chrome/Default/Sync Data/LevelDB/000035.log 
+2020/05/13-12:51:27.369 40a Level-0 table #39: started
+2020/05/13-12:51:27.379 40a Level-0 table #39: 124240 bytes OK
+2020/05/13-12:51:27.381 40a Delete type=0 #35
+2020/05/13-13:07:55.791 40a Level-0 table #41: started
+2020/05/13-13:07:55.806 40a Level-0 table #41: 103290 bytes OK
+2020/05/13-13:07:55.808 40a Delete type=0 #38
+2020/05/13-13:07:55.808 40a Compacting 4@0 + 1@1 files
+2020/05/13-13:07:55.812 40a Generated table #42@0: 168 keys, 32902 bytes
+2020/05/13-13:07:55.812 40a Compacted 4@0 + 1@1 files => 32902 bytes
+2020/05/13-13:07:55.814 40a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/13-13:07:55.814 40a Delete type=2 #36
+2020/05/13-13:07:55.814 40a Delete type=2 #41
+2020/05/13-13:07:55.814 40a Delete type=2 #32
+2020/05/13-13:07:55.814 40a Delete type=2 #34
+2020/05/13-13:07:55.814 40a Delete type=2 #39

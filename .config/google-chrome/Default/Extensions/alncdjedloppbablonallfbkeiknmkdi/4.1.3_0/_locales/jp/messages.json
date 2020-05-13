@@ -1,0 +1,228 @@
+{
+    "extName": {
+        "message": "Night Eye - あらゆるウェブサイトのダークモード"
+    },
+    "extDescription": {
+        "message": "Night Eyeは、すべての色を反転するのではなく、分析して変換する新しいアルゴリズムを使用して、どのウェブサイトでも夜間モードを有効にします。"
+    },
+    "extToggleButton": {
+        "message": "「タブの暗くて標準的なモードを切り替える」"
+    },
+    "okButton": {
+        "message": "OK"
+    },
+    "labelPleaseWait": {
+        "message": "お待ちください"
+    },
+    "labelWebsiteStatusDark": {
+        "message": "ダークバージョン"
+    },
+    "labelWebsiteStatusFiltered": {
+        "message": "フィルタリングされたバージョン"
+    },
+    "labelWebsiteStatusNormal": {
+        "message": "「通常版」"
+    },
+    "labelWebsiteStatusNotSupported": {
+        "message": "サポートされていません"
+    },
+    "messageWebsiteNotSupported": {
+        "message": "「このウェブサイトはサポートされていません」"
+    },
+    "labelContinue": {
+        "message": "持続する"
+    },
+    "filterModeNameDark": {
+        "message": "ダーク"
+    },
+    "filterModeNameFiltered": {
+        "message": "「フィルタリングされた」"
+    },
+    "filterModeNameNormal": {
+        "message": "正常"
+    },
+    "labelCurrent": {
+        "message": "現在"
+    },
+    "labelWebsite": {
+        "message": "ウェブサイト"
+    },
+    "labelColors": {
+        "message": "色"
+    },
+    "labelImages": {
+        "message": "イメージ"
+    },
+    "labelBrightness": {
+        "message": "輝度"
+    },
+    "labelContrast": {
+        "message": "コントラスト"
+    },
+    "labelSaturation": {
+        "message": "飽和"
+    },
+    "labelBlueLight": {
+        "message": "青色光"
+    },
+    "labelDim": {
+        "message": "薄暗い"
+    },
+    "extTurnOnButton": {
+        "message": "オンにする"
+    },
+    "extDisabledStatus": {
+        "message": "「夜間視力は使用できません」"
+    },
+    "labelExperimentalFeature": {
+        "message": "実験的な特徴"
+    },
+    "colorViewTitle": {
+        "message": "カラーピッカー"
+    },
+    "colorViewDescription": {
+        "message": "「ウェブサイトから色を選んで、あなたが望むものに変えてください」"
+    },
+    "colorViewReplacedColor": {
+        "message": "置き換えられた"
+    },
+    "colorViewOriginalColor": {
+        "message": "元の"
+    },
+    "imageViewTitle": {
+        "message": "「画像」"
+    },
+    "imageViewDescription": {
+        "message": "Night Eyeは画像を暗くして処理しますが、これはより多くの計算資源を必要とし、コンピュータを遅くする可能性があります。"
+    },
+    "switchLabelOn": {
+        "message": "に"
+    },
+    "switchLabelOff": {
+        "message": "オフ"
+    },
+    "brightnessViewTitle": {
+        "message": "輝度"
+    },
+    "brightnessViewDescription": {
+        "message": "スライダーを下にドラッグして明るさを調整します。"
+    },
+    "contrastViewTitle": {
+        "message": "コントラスト"
+    },
+    "contrastViewDescription": {
+        "message": "「スライダーを下にドラッグしてコントラストを調整する」"
+    },
+    "saturationViewTitle": {
+        "message": "飽和"
+    },
+    "saturationViewDescription": {
+        "message": "スライダーを下にドラッグして彩度を調整します。"
+    },
+    "temperatureViewTitle": {
+        "message": "青色光"
+    },
+    "temperatureViewDescription": {
+        "message": "青い光を調整するには、スライダーを下にドラッグします。"
+    },
+    "temperatureViewOption1": {
+        "message": "青で"
+    },
+    "temperatureViewOption2": {
+        "message": "青なし"
+    },
+    "dimViewTitle": {
+        "message": "「薄暗い」"
+    },
+    "dimViewDescription": {
+        "message": "ウェブサイトの調光レベルを調整します。"
+    },
+    "refreshViewTitle": {
+        "message": "「ページをリロードしてください」"
+    },
+    "refreshViewDescription": {
+        "message": "最新の設定を適用するには現在のページを更新する必要があります"
+    },
+    "refreshButton": {
+        "message": "リフレッシュ"
+    },
+    "supportViewInfo1": {
+        "message": "「Night Eyeに関する質問や問題があれば、私たちはここにいる」"
+    },
+    "supportViewInfo2": {
+        "message": "「サポートシステムを使用するには、正しい連絡先情報を入力してください。」"
+    },
+    "supportViewInfo3": {
+        "message": "私たちに英語でのみメッセージしてください。"
+    },
+    "supportViewInputName": {
+        "message": "名"
+    },
+    "supportViewInputEmail": {
+        "message": "Eメール"
+    },
+    "helpViewHelpButton": {
+        "message": "助けて"
+    },
+    "helpViewShortcutTitle": {
+        "message": "「オン/オフショートカット」"
+    },
+    "helpViewShortcutDescription": {
+        "message": "「自分のショートカットを割り当てる方法を知る」"
+    },
+    "helpViewUninstallTitle": {
+        "message": "アンインストール"
+    },
+    "helpViewUninstallDescription": {
+        "message": "拡張機能のリストでナイトアイを見つけて削除をクリックする"
+    },
+    "helpViewDefaultModeTitle": {
+        "message": "デフォルトモード"
+    },
+    "helpViewDefaultModeDescription": {
+        "message": "「新しいウェブサイトを開くときに実行されるデフォルトモードを選択する」"
+    },
+    "firstRunViewTitle": {
+        "message": "クイックスタート"
+    },
+    "firstRunViewFeature1": {
+        "message": "「一部のページの読み込み速度に影響する」"
+    },
+    "firstRunViewFeature2": {
+        "message": "無料で3ヶ月間楽しんでください - それでは$$ 9 /年"
+    },
+    "firstRunViewFeature3": {
+        "message": "「閲覧情報が収集されません」"
+    },
+    "firstRunViewFeature4": {
+        "message": "「ビルトインのチャットを使用してサポートに問い合わせる」"
+    },
+    "controlsPanelButtonCancel": {
+        "message": "キャンセル"
+    },
+    "controlsPanelButtonDefault": {
+        "message": "デフォルト"
+    },
+    "controlsPanelButtonApply": {
+        "message": "適用"
+    },
+    "controlsPanelButtonApplyTo": {
+        "message": "適用する"
+    },
+    "controlsPanelAllWebsites": {
+        "message": "すべてのウェブサイト"
+    },
+    "controlsPanelCurrentWebsite": {
+        "message": "現在のウェブサイト"
+    },
+
+    "controlsPanelButtonRestoreTo": {
+        "message": "デフォルトに戻す"
+    },
+    "controlsPanelForAllWebsites": {
+        "message": "すべてのウェブサイト"
+    },
+    "controlsPanelForCurrentWebsite": {
+        "message": "現在のウェブサイト"
+    }
+}

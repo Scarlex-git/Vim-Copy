@@ -1,0 +1,22 @@
+
+
+-------session starts-------
+
+[5-13 19:42:1.160] INFO: Got the drag_and_drop directory
+[5-13 19:42:5.683] INFO: lsUserAddedMusicSourceIds=null
+[5-13 19:42:5.683] INFO: lsLastTrackFailureLoggingTime=null
+[5-13 19:42:5.747] INFO: MediaGallery: name=/home/scarlex/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[5-13 19:42:5.748] INFO: Starts a quick scan on /home/scarlex/Pictures
+[5-13 19:42:5.748] INFO: Iterating over dir / from source /home/scarlex/Pictures
+[5-13 19:42:5.752] INFO: /home/scarlex/Pictures does not contain music file
+[5-13 19:42:5.752] INFO: lsUserSelectedDownloadDirId=null
+[5-13 19:42:5.753] INFO: lsDefaultDownloadLocationId=null
+[5-13 19:42:5.753] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[5-13 19:42:5.753] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[5-13 19:42:6.36] WARNING: Tier change detected
+[5-13 19:42:6.37] INFO: Fetched user settings from server.
+[5-13 19:42:6.39] INFO: chromeapp:O ready
+[5-13 19:42:6.950] INFO: lsAppActivated=false
+[5-13 19:42:6.950] INFO: lsDragAndDropActivated=false
+[5-13 19:42:6.950] INFO: Nacl version: 1.0.635.372
+[5-13 19:42:6.950] INFO: lsAppActivated=false

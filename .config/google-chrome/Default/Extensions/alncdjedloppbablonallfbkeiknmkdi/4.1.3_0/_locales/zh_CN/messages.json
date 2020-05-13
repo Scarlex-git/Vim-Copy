@@ -1,0 +1,227 @@
+{
+   "brightnessViewDescription": {
+      "message": "通过拖动下方的滑块来调整亮度。"
+   },
+   "brightnessViewTitle": {
+      "message": "亮度"
+   },
+   "colorViewDescription": {
+      "message": "从网站上挑选一种颜色并将其改为你想要的任何颜色。"
+   },
+   "colorViewOriginalColor": {
+      "message": "原版的"
+   },
+   "colorViewReplacedColor": {
+      "message": "改为"
+   },
+   "colorViewTitle": {
+      "message": "选色器"
+   },
+   "contrastViewDescription": {
+      "message": "通过拖动下方的滑块来调整对比度。"
+   },
+   "contrastViewTitle": {
+      "message": "对比"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "所有网站"
+   },
+   "controlsPanelButtonApply": {
+      "message": "应用"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "适用于"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "取消"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "默认值"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "恢复默认值"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "当前网站"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "为所有网站"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "对于当前的网站"
+   },
+   "dimViewDescription": {
+      "message": "调整网站的调光水平。"
+   },
+   "dimViewTitle": {
+      "message": "暗淡"
+   },
+   "extDescription": {
+      "message": "Night Eye使用新算法在任何网站上启用夜间模式，该算法可以分析和转换所有颜色而不是反转它们。"
+   },
+   "extDisabledStatus": {
+      "message": "夜间眼睛残疾"
+   },
+   "extName": {
+      "message": "夜间眼睛 - 任何网站上的黑暗模式"
+   },
+   "extToggleButton": {
+      "message": "切换选项卡的黑暗和正常模式"
+   },
+   "extTurnOnButton": {
+      "message": "打开"
+   },
+   "filterModeNameDark": {
+      "message": "黑暗"
+   },
+   "filterModeNameFiltered": {
+      "message": "过滤"
+   },
+   "filterModeNameNormal": {
+      "message": "正常"
+   },
+   "firstRunViewFeature1": {
+      "message": "影响某些页面的加载速度"
+   },
+   "firstRunViewFeature2": {
+      "message": "免费享受3个月 - 之后 - 只需9美元/年"
+   },
+   "firstRunViewFeature3": {
+      "message": "没有收集浏览信息"
+   },
+   "firstRunViewFeature4": {
+      "message": "使用内置聊天联系我们的支持"
+   },
+   "firstRunViewTitle": {
+      "message": "快速开始"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "选择打开新网站时要执行的默认模式"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "默认模式"
+   },
+   "helpViewHelpButton": {
+      "message": "帮帮我"
+   },
+   "helpViewShortcutDescription": {
+      "message": "了解如何分配自己的快捷方式"
+   },
+   "helpViewShortcutTitle": {
+      "message": "开/关快捷方式"
+   },
+   "helpViewUninstallDescription": {
+      "message": "在扩展程序列表中查找夜眼并单击删除"
+   },
+   "helpViewUninstallTitle": {
+      "message": "卸载"
+   },
+   "imageViewDescription": {
+      "message": "夜间眼睛会处理图像，使图像更暗。这个功能需要更多的计算资源，可能会降低计算机速度。"
+   },
+   "imageViewTitle": {
+      "message": "图片"
+   },
+   "labelBlueLight": {
+      "message": "蓝光"
+   },
+   "labelBrightness": {
+      "message": "亮度"
+   },
+   "labelColors": {
+      "message": "颜色"
+   },
+   "labelContinue": {
+      "message": "继续"
+   },
+   "labelContrast": {
+      "message": "对比"
+   },
+   "labelCurrent": {
+      "message": "当前"
+   },
+   "labelDim": {
+      "message": "暗淡"
+   },
+   "labelExperimentalFeature": {
+      "message": "实验功能"
+   },
+   "labelImages": {
+      "message": "图片"
+   },
+   "labelPleaseWait": {
+      "message": "请稍候"
+   },
+   "labelSaturation": {
+      "message": "饱和"
+   },
+   "labelWebsite": {
+      "message": "网站"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "黑暗版"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "过滤版"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "普通版"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "不支持"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "不支持此网站"
+   },
+   "okButton": {
+      "message": "好"
+   },
+   "refreshButton": {
+      "message": "刷新"
+   },
+   "refreshViewDescription": {
+      "message": "您必须刷新当前页面才能应用最新设置"
+   },
+   "refreshViewTitle": {
+      "message": "请重新加载页面"
+   },
+   "saturationViewDescription": {
+      "message": "通过拖动下方的滑块来调整饱和度。"
+   },
+   "saturationViewTitle": {
+      "message": "饱和"
+   },
+   "supportViewInfo1": {
+      "message": "如果您对Night Eye有任何疑问或问题，我们随时为您提供帮助。"
+   },
+   "supportViewInfo2": {
+      "message": "要使用我们的支持系统，请提供正确的联系信息。"
+   },
+   "supportViewInfo3": {
+      "message": "只用英语给我们留言。"
+   },
+   "supportViewInputEmail": {
+      "message": "电子邮件"
+   },
+   "supportViewInputName": {
+      "message": "名称"
+   },
+   "switchLabelOff": {
+      "message": "关"
+   },
+   "switchLabelOn": {
+      "message": "上"
+   },
+   "temperatureViewDescription": {
+      "message": "通过拖动下方的滑块来调整蓝光。"
+   },
+   "temperatureViewOption1": {
+      "message": "用蓝色"
+   },
+   "temperatureViewOption2": {
+      "message": "没有蓝色"
+   },
+   "temperatureViewTitle": {
+      "message": "蓝光"
+   }
+}

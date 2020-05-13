@@ -1,0 +1,240 @@
+{
+   "brightnessViewDescription": {
+      "message": "Passen Sie die Helligkeit an, indem Sie den Schieberegler darunter ziehen."
+   },
+   "brightnessViewTitle": {
+      "message": "Helligkeit"
+   },
+   "colorViewDescription": {
+      "message": "Wählen Sie eine Farbe von der Webseite aus und ändern Sie sie nach Ihren Wünschen."
+   },
+   "colorViewOriginalColor": {
+      "description": "original color",
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "description": " replaced color",
+      "message": "Ersetzt"
+   },
+   "colorViewTitle": {
+      "message": "Farbwähler"
+   },
+   "contrastViewDescription": {
+      "message": "Passen Sie den Kontrast an, indem Sie den Schieberegler darunter ziehen."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "alle Webseiten"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Übernehmen"
+   },
+   "controlsPanelButtonApplyTo": {
+      "description": "Apply to all websites",
+      "message": "Übernehmen für"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Stornieren"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Reset"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "description": "Restore defaults for all websites",
+      "message": "Zurücksetzen"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "aktuelle Webseite"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "für alle Webseiten"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "für die aktuelle Webseite"
+   },
+   "dimViewDescription": {
+      "message": "Passen Sie das Dimmlevel der Webseiten an."
+   },
+   "dimViewTitle": {
+      "message": "Dimmen"
+   },
+   "extDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye ermöglicht den Nachtmodus auf jeder Webseite mit einem neuen Algorithmus, der alle Farben analysiert und konvertiert, anstatt sie zu invertieren."
+   },
+   "extDisabledStatus": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye ist deaktiviert"
+   },
+   "extName": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye - Dunkel-Modus auf jeder Webseite"
+   },
+   "extToggleButton": {
+      "message": "Schalten Sie den dunklen und normalen Modus für den Tab"
+   },
+   "extTurnOnButton": {
+      "message": "Aktivieren"
+   },
+   "filterModeNameDark": {
+      "message": "Dunkel"
+   },
+   "filterModeNameFiltered": {
+      "message": "Gefiltert"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Beeinflusst die Ladegeschwindigkeit auf einigen Seiten"
+   },
+   "firstRunViewFeature2": {
+      "message": "Genießen Sie 3 Monate gratis\u003Cbr>Danach - nur $ 9 / Jahr"
+   },
+   "firstRunViewFeature3": {
+      "message": "Es werden keine Browserinformationen gesammelt"
+   },
+   "firstRunViewFeature4": {
+      "message": "Kontaktieren Sie unseren Support über den integrierten Chat"
+   },
+   "firstRunViewTitle": {
+      "message": "Schnellstart"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Wählen Sie den Standardmodus, der beim Öffnen neuer Webseiten ausgeführt werden soll"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Standardmodus"
+   },
+   "helpViewHelpButton": {
+      "message": "Hilfe"
+   },
+   "helpViewShortcutDescription": {
+      "message": "Finden Sie heraus, wie Sie Ihre eigene Verknüpfung zuweisen"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Ein/Aus Verknüpfung"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Suchen Sie Night Eye in der Liste der Erweiterungen und klicken Sie auf Entfernen"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Deinstallieren"
+   },
+   "imageViewDescription": {
+      "description": "Night Eye - do not translate Night Eye - this is app name",
+      "message": "Night Eye verarbeitet Bilder, um sie dunkler zu machen. Diese Funktion benötigt mehr Rechenressourcen und kann den Computer verlangsamen."
+   },
+   "imageViewTitle": {
+      "message": "Bilder"
+   },
+   "labelBlueLight": {
+      "message": "Blaues Licht"
+   },
+   "labelBrightness": {
+      "message": "Helligkeit"
+   },
+   "labelColors": {
+      "message": "Farben"
+   },
+   "labelContinue": {
+      "message": "Fortsetzen"
+   },
+   "labelContrast": {
+      "message": "Kontrast"
+   },
+   "labelCurrent": {
+      "description": "Current website",
+      "message": "Aktuelle"
+   },
+   "labelDim": {
+      "message": "Dimmen"
+   },
+   "labelExperimentalFeature": {
+      "message": "experimentelle Funktion"
+   },
+   "labelImages": {
+      "message": "Bilder"
+   },
+   "labelPleaseWait": {
+      "message": "Bitte warten"
+   },
+   "labelSaturation": {
+      "message": "Sättigung"
+   },
+   "labelWebsite": {
+      "description": "Current website",
+      "message": "Webseite"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Dunkle Version"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Gefilterte Version"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normale Version"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Nicht unterstützt"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Diese Webseite wird nicht unterstützt"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "refreshButton": {
+      "description": "Refresh current page - this is button",
+      "message": "Neu laden"
+   },
+   "refreshViewDescription": {
+      "message": "Sie sollen die aktuelle Seite neu laden, um die neuesten Einstellungen zu übernehmen"
+   },
+   "refreshViewTitle": {
+      "message": "Bitte laden Sie die Seite neu"
+   },
+   "saturationViewDescription": {
+      "message": "Passen Sie die Sättigung an, indem Sie den Schieberegler darunter ziehen."
+   },
+   "saturationViewTitle": {
+      "message": "Sättigung"
+   },
+   "supportViewInfo1": {
+      "message": "Wir sind hier, um Ihnen zu helfen, wenn Sie irgendwelche Fragen oder Probleme mit Night Eye haben."
+   },
+   "supportViewInfo2": {
+      "message": "Um unser Support-System zu nutzen, geben Sie bitte korrekte Kontaktinformationen an."
+   },
+   "supportViewInfo3": {
+      "message": "Bitte schreiben Sie uns nur auf Englisch."
+   },
+   "supportViewInputEmail": {
+      "message": "Email"
+   },
+   "supportViewInputName": {
+      "message": "Name"
+   },
+   "switchLabelOff": {
+      "description": "Switch is Off",
+      "message": "Aus"
+   },
+   "switchLabelOn": {
+      "description": "Switch is On",
+      "message": "Ein"
+   },
+   "temperatureViewDescription": {
+      "message": "Passen Sie das blaue Licht an, indem Sie den Schieberegler darunter ziehen."
+   },
+   "temperatureViewOption1": {
+      "message": "Mit Blau"
+   },
+   "temperatureViewOption2": {
+      "message": "Ohne blau"
+   },
+   "temperatureViewTitle": {
+      "message": "Blaues Licht"
+   }
+}

@@ -1,0 +1,27 @@
+2020/05/13-12:42:00.501 24e Reusing MANIFEST /home/scarlex/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/13-12:42:00.503 24e Recovering log #123
+2020/05/13-12:42:00.503 24e Reusing old log /home/scarlex/.config/google-chrome/Default/Local Storage/leveldb/000123.log 
+2020/05/13-12:47:01.002 368 Level-0 table #128: started
+2020/05/13-12:47:01.011 368 Level-0 table #128: 18911 bytes OK
+2020/05/13-12:47:01.013 368 Delete type=0 #123
+2020/05/13-12:52:17.096 368 Level-0 table #130: started
+2020/05/13-12:52:17.101 368 Level-0 table #130: 93340 bytes OK
+2020/05/13-12:52:17.104 368 Delete type=0 #127
+2020/05/13-13:00:36.956 368 Level-0 table #132: started
+2020/05/13-13:00:36.964 368 Level-0 table #132: 16960 bytes OK
+2020/05/13-13:00:36.967 368 Delete type=0 #129
+2020/05/13-13:04:28.801 368 Level-0 table #134: started
+2020/05/13-13:04:28.810 368 Level-0 table #134: 13936 bytes OK
+2020/05/13-13:04:28.812 368 Delete type=0 #131
+2020/05/13-13:04:28.812 368 Compacting 4@0 + 1@1 files
+2020/05/13-13:04:28.824 368 Generated table #135@0: 373 keys, 622863 bytes
+2020/05/13-13:04:28.824 368 Compacted 4@0 + 1@1 files => 622863 bytes
+2020/05/13-13:04:28.826 368 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/13-13:04:28.826 368 Delete type=2 #128
+2020/05/13-13:04:28.826 368 Delete type=2 #132
+2020/05/13-13:04:28.826 368 Delete type=2 #130
+2020/05/13-13:04:28.826 368 Delete type=2 #134
+2020/05/13-13:04:28.826 368 Delete type=2 #125
+2020/05/13-13:08:49.870 368 Level-0 table #137: started
+2020/05/13-13:08:49.879 368 Level-0 table #137: 12678 bytes OK
+2020/05/13-13:08:49.881 368 Delete type=0 #133

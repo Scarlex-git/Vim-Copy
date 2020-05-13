@@ -1,0 +1,15 @@
+2020/05/10-09:01:46.915 2c42 Reusing MANIFEST /home/scarlex/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/10-09:01:46.915 2c42 Recovering log #121
+2020/05/10-09:01:46.915 2c42 Reusing old log /home/scarlex/.config/google-chrome/Default/Local Storage/leveldb/000121.log 
+2020/05/10-09:03:15.228 2db2 Level-0 table #124: started
+2020/05/10-09:03:15.237 2db2 Level-0 table #124: 13408 bytes OK
+2020/05/10-09:03:15.240 2db2 Delete type=0 #121
+2020/05/10-09:03:15.240 2db2 Compacting 4@0 + 1@1 files
+2020/05/10-09:03:15.258 2db2 Generated table #125@0: 296 keys, 616606 bytes
+2020/05/10-09:03:15.258 2db2 Compacted 4@0 + 1@1 files => 616606 bytes
+2020/05/10-09:03:15.260 2db2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/10-09:03:15.260 2db2 Delete type=2 #118
+2020/05/10-09:03:15.260 2db2 Delete type=2 #116
+2020/05/10-09:03:15.260 2db2 Delete type=2 #124
+2020/05/10-09:03:15.260 2db2 Delete type=2 #120
+2020/05/10-09:03:15.260 2db2 Delete type=2 #114
