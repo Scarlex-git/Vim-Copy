@@ -1,8 +1,0 @@
-2020/05/10-09:01:47.872 2c5b Reusing MANIFEST /home/scarlex/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/10-09:01:47.872 2c5b Recovering log #64
-2020/05/10-09:01:47.872 2c5b Reusing old log /home/scarlex/.config/google-chrome/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000064.log 
-2020/05/10-09:01:49.876 2d12 Level-0 table #68: started
-2020/05/10-09:01:49.876 2d12 Level-0 table #68: 0 bytes OK
-2020/05/10-09:01:49.885 2d12 Delete type=0 #64
-2020/05/10-09:01:49.886 2d12 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/10-09:01:49.886 2d12 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

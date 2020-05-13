@@ -1,5 +1,0 @@
-2020/05/10-09:17:41.705 344e Reusing MANIFEST /home/scarlex/.config/google-chrome/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/10-09:18:31.609 2d12 Level-0 table #5: started
-2020/05/10-09:18:31.617 2d12 Level-0 table #5: 5231 bytes OK
-2020/05/10-09:18:31.619 2d12 Delete type=0 #3
-2020/05/10-09:18:31.619 2d12 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
