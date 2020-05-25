@@ -1,0 +1,1546 @@
+May 19 14:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 14:59 : exception: Failed to open '/home/scarlex/.config/mpd/state': No such file or directory
+May 19 14:59 : update: added /02 - Aliake.mp3
+May 19 14:59 : update: added /10 - GAMEBOY.mp3
+May 19 14:59 : update: added /07 - LASTMORN.mp3
+May 19 14:59 : update: added /05 - Alismonitos Lethaeus.mp3
+May 19 14:59 : update: added /04 - NULCTRL EX.mp3
+May 19 14:59 : update: added /驟雨の狭間 (Rainshower) Silentroom Shun.mp3
+May 19 14:59 : update: added /12 - Rainbow Frontier.mp3
+May 19 14:59 : update: added /03 - GLITCH SWITCH.mp3
+May 19 14:59 : update: added /DÉ DÉ MOUSE - Silly Love (Original Mix).mp3
+May 19 14:59 : update: added /09 - Nhelv.mp3
+May 19 14:59 : update: added /11 - この星の上で.mp3
+May 19 14:59 : update: added /06 - Protoflicker.mp3
+May 19 14:59 : update: added /08 - Angel Echo.mp3
+May 19 14:59 : update: added /01 - Wondertainer.mp3
+May 19 14:59 : client: [0] opened from 127.0.0.1:42958
+May 19 15:00 : client: [1] opened from [::1]:44896
+May 19 15:00 : client: [1] closed
+May 19 15:03 : client: [2] opened from [::1]:44906
+May 19 15:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+May 19 15:03 : exception: Failed to open "mpd alsamixer-output" (alsa)
+May 19 15:03 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+May 19 15:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:03 : client: [3] opened from 127.0.0.1:42972
+May 19 15:03 : client: [3] closed
+May 19 15:03 : client: [4] opened from 127.0.0.1:42974
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+May 19 15:03 : exception: Failed to open "mpd alsamixer-output" (alsa)
+May 19 15:03 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+May 19 15:03 : client: [4] closed
+May 19 15:04 : client: [2] closed
+May 19 15:05 : player: played "01 - Wondertainer.mp3"
+May 19 15:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:05 : client: [0] opened from 127.0.0.1:55566
+May 19 15:08 : player: played "01 - Wondertainer.mp3"
+May 19 15:10 : player: played "05 - Alismonitos Lethaeus.mp3"
+May 19 15:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:10 : client: [0] opened from 127.0.0.1:35600
+May 19 15:10 : client: [1] opened from 127.0.0.1:35602
+May 19 15:10 : client: [1] closed
+May 19 15:10 : client: [2] opened from 127.0.0.1:35604
+May 19 15:10 : client: [2] closed
+May 19 15:11 : client: [0] closed
+May 19 15:11 : player: played "05 - Alismonitos Lethaeus.mp3"
+May 19 15:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:11 : client: [0] opened from 127.0.0.1:46452
+May 19 15:12 : client: [0] closed
+May 19 15:12 : player: played "05 - Alismonitos Lethaeus.mp3"
+May 19 19:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 19:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 19:15 : client: [0] opened from 127.0.0.1:47088
+May 19 19:15 : client: [1] opened from [::1]:39954
+May 19 19:15 : client: [1] closed
+May 19 19:18 : client: [2] opened from [::1]:40070
+May 19 19:19 : player: played "DÉ DÉ MOUSE - Silly Love (Original Mix).mp3"
+May 19 19:23 : player: played "驟雨の狭間 (Rainshower) Silentroom Shun.mp3"
+May 19 19:23 : client: [3] opened from 127.0.0.1:47246
+May 19 19:23 : client: [3] closed
+May 19 19:24 : client: [2] closed
+May 19 19:26 : player: played "01 - Wondertainer.mp3"
+May 19 19:30 : player: played "05 - Alismonitos Lethaeus.mp3"
+May 19 19:33 : player: played "02 - Aliake.mp3"
+May 19 19:34 : client: [4] opened from 127.0.0.1:47366
+May 19 19:34 : client: [4] closed
+May 19 19:38 : player: played "04 - NULCTRL EX.mp3"
+May 19 19:45 : player: played "06 - Protoflicker.mp3"
+May 19 19:48 : player: played "07 - LASTMORN.mp3"
+May 19 19:48 : client: [5] opened from [::1]:40314
+May 19 19:48 : update: added foobar2000/Aiobahn/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/55 Twinkle.mp3
+May 19 19:48 : update: added foobar2000/Akira Complex/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/72 BLACK JACKAL.mp3
+May 19 19:48 : update: added foobar2000/Akira Complex & Slyleaf/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/34 As I go.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/68 50th Memorial 50th Memorial Songs.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/69 50th Memorial 50th Memorial Songs.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/70 50th Memorial 50th Memorial Songs.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/88 50th Memorial Songs -Beginning St.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _dj TAKA_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/75 Trill auf G (DANCERUSH Style).mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _DJ TOTTO_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/04 DOWNER & UPPER.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _DJ TOTTO_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/09 FLOWER (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _HuΣeR_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/08 NewAige.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _PHQUASE_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/76 voltississimo (DANCERUSH Style).mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _PON_ feat.NU-KO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/73 おーまい！らぶりー！すうぃーてぃ！だーりん！ (DANCERUSH.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _Sota F._/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/03 Don't Stop!!.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _Sota F._/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/51 BEYOND THE EARTH (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _Sota F._ feat. Starbi/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/38 Love 2 Shuffle.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/05 Oppress.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/10 Impress.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/25 THE SAFARI (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/53 Luminous Pajama.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/66 灼熱Beach Side Bunny (STARDOM Remix.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/83 BREDLI.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _The Foie-Gras of The/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/07 Robot Loves Smoked-Salmon.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _Yvya × Mutsuhiko Izum/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/78 Six String Proof (DANCERUSH Style.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _劇団レコード/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/37 GHOST KINGDOM.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _猫叉Master_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/36 Shuffle cats.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _猫叉劇団_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/71 Afterimage d'automne.mp3
+May 19 19:48 : update: added foobar2000/BlackY/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/40 Crystarium.mp3
+May 19 19:48 : update: added foobar2000/BlackY/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/59 Starlight Kiss.mp3
+May 19 19:48 : update: added foobar2000/Camellia feat. AiMEE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/93 True Blue (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/Carpainter/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/13 Deep Vibes.mp3
+May 19 19:48 : update: added foobar2000/CHEAP CREAM/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/57 Memories.mp3
+May 19 19:48 : update: added foobar2000/Dirty Androids/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/16 Majestic.mp3
+May 19 19:48 : update: added foobar2000/DJ TECHNORCH with BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/77 最小三倍完全数 (DANCERUSH Style).mp3
+May 19 19:48 : update: added foobar2000/DJ TOTTO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/100 Astrogazer.mp3
+May 19 19:48 : update: added foobar2000/Dubscribe/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/63 Switch.mp3
+May 19 19:48 : update: added foobar2000/hara (HyperJuice)/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/61 RAVELINE ATTACK.mp3
+May 19 19:48 : update: added foobar2000/HHH×MM×ST/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/94 朧.mp3
+May 19 19:48 : update: added foobar2000/HiBiKi/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/14 DO YOU WANNA PARTY!!(DJ KEN-BOW M.mp3
+May 19 19:48 : update: added foobar2000/HIDEKI NAGANUMA/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/104 LUV CAN SAVE U.mp3
+May 19 19:48 : update: added foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/01 Wicked.mp3
+May 19 19:48 : update: added foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/107 Wowie Zowie!.mp3
+May 19 19:48 : update: added foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/90 Undercover.mp3
+May 19 19:48 : update: added foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/99 Drop The Bounce..mp3
+May 19 19:48 : update: added foobar2000/HyperJuice/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/18 Bad Boy Birdwatch.mp3
+May 19 19:48 : update: added foobar2000/KAN TAKAHIKO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/17 Jalebi.mp3
+May 19 19:48 : update: added foobar2000/KAN TAKAHIKO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/31 Bad Riddim.mp3
+May 19 19:48 : update: added foobar2000/KAN TAKAHIKO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/47 Auto Click.mp3
+May 19 19:48 : update: added foobar2000/Kenichi Chiba/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/41 Love Me.mp3
+May 19 19:48 : update: added foobar2000/kiraku/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/86 new heaven.mp3
+May 19 19:48 : update: added foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/22 Summery.mp3
+May 19 19:48 : update: added foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/32 Party Jumpin'.mp3
+May 19 19:48 : update: added foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/46 Chaos of Drum.mp3
+May 19 19:48 : update: added foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/95 MUTSUKI.mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/06 Garuda.mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/103 渚の小悪魔ラヴリィレイディオ (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/108 SigSig.mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/118 smooooch ・∀・.mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/23 †渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/39 Catch Our Fire! (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/81 Poochie.mp3
+May 19 19:48 : update: added foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/85 Gymnopedie.mp3
+May 19 19:48 : update: added foobar2000/kors k feat. Suzuyo Miyamoto/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/114 Special One.mp3
+May 19 19:48 : update: added foobar2000/kors k feat.Starbitz/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/106 DUB I DUB.mp3
+May 19 19:48 : update: added foobar2000/kors k feat.Starbitz/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/97 Butterfly (STARDOM Remix.mp3
+May 19 19:48 : update: added foobar2000/kors k feat.福島蘭世/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/54 DANCERUSH STARDOM ANTHEM.mp3
+May 19 19:48 : update: added foobar2000/kors k vs BEMANI Sound Team _L.E.D._/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/67 Set Me Free.mp3
+May 19 19:48 : update: added foobar2000/BEMANI Sound Team _S-C-U & SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/74 toy boxer (DANCERUSH Style).mp3
+May 19 19:48 : update: added foobar2000/Blacklolita/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/33 Visnu.mp3
+May 19 19:48 : update: added foobar2000/nana(Sevencolors) feat. mana/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/89 December in Strasbourg.mp3
+May 19 19:48 : update: added foobar2000/Sota Fujimori/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/101 Saturday Night Love -Phunk Disco.mp3
+May 19 19:48 : update: added foobar2000/KOTONOHOUSE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/44 take me higher.mp3
+May 19 19:48 : update: added foobar2000/L.E.D.-G/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/111 RISING FIRE HAWK.mp3
+May 19 19:48 : update: added foobar2000/L.E.D.-G/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/116 DAWN OF FALCON.mp3
+May 19 19:48 : update: added foobar2000/lapix/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/12 Kill The Beat.mp3
+May 19 19:48 : update: added foobar2000/lapix/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/80 glacia (STARDOM Remix).mp3
+May 19 19:48 : update: added foobar2000/MARON (IOSYS)/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/84 BENJAMIN.mp3
+May 19 19:48 : update: added foobar2000/Masayoshi Iimori/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/20 Raw Crawler.mp3
+May 19 19:48 : update: added foobar2000/MK/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/19 HighBALL.mp3
+May 19 19:48 : update: added foobar2000/MK/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/27 Don't Be Afraid.mp3
+May 19 19:48 : update: added foobar2000/MK/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/56 Fire Spirit.mp3
+May 19 19:48 : update: added foobar2000/Moe Shop/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/35 Nightlife.mp3
+May 19 19:48 : update: added foobar2000/Moe Shop/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/45 Audiovisual.mp3
+May 19 19:48 : update: added foobar2000/nagomu tamaki/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/15 Mandrake.mp3
+May 19 19:48 : update: added foobar2000/nagomu tamaki/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/43 Be My Baby.mp3
+May 19 19:48 : update: added foobar2000/nana(Sevencolors) feat.mana/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/49 Nighthiker.mp3
+May 19 19:48 : update: added foobar2000/Nhato/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/28 Summer's End.mp3
+May 19 19:48 : update: added foobar2000/nora2r/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/82 Honey Bounce.mp3
+May 19 19:48 : update: added foobar2000/Polyphonix/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/42 C'mon baby.mp3
+May 19 19:48 : update: added foobar2000/PSYQUI/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/62 Stepper.mp3
+May 19 19:48 : update: added foobar2000/Relect/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/29 Shiva.mp3
+May 19 19:48 : update: added foobar2000/Relect/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/48 Disco Nights.mp3
+May 19 19:48 : update: added foobar2000/Relect/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/96 SHINOBI.mp3
+May 19 19:48 : update: added foobar2000/RoughSketch/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/52 Get On The Floor.mp3
+May 19 19:48 : update: added foobar2000/Ryu☆/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/112 Sakura Sunrise.mp3
+May 19 19:48 : update: added foobar2000/Ryu☆ feat.Mayumi Morinaga/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/105 Din Don Dan.mp3
+May 19 19:48 : update: added foobar2000/Shouya Namai/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/60 Awakening.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/01 - Wondertainer.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/02 - Aliake.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/03 - GLITCH SWITCH.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/04 - NULCTRL EX.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/05 - Alismonitos Lethaeus.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/06 - Protoflicker.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/07 - LASTMORN.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/08 - Angel Echo.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/09 - Nhelv.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/10 - GAMEBOY.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/11 - この星の上で.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/12 - Rainbow Frontier.mp3
+May 19 19:48 : update: added foobar2000/Silentroom - Rainbow Frontier [320]/驟雨の狭間 (Rainshower) Silentroom Shun.mp3
+May 19 19:48 : update: added foobar2000/Sota feat. Brenda V_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/113 Saturday Night Love.mp3
+May 19 19:48 : update: added foobar2000/STUDIO MOTTIE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/91 MY NAME IS.mp3
+May 19 19:48 : update: added foobar2000/TAKU INOUE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/26 Forgetting Machine.mp3
+May 19 19:48 : update: added foobar2000/TANUKI/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/58 Night & Day.mp3
+May 19 19:48 : update: added foobar2000/U1 overground/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/98 Electric Dance System Music.mp3
+May 19 19:48 : update: added foobar2000/USAO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/115 Hastur.mp3
+May 19 19:48 : update: added foobar2000/VENUS/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/50 Thank You Merry Christmas -DANCER.mp3
+May 19 19:48 : update: added foobar2000/Yooh/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/11 Crazy Shuffle.mp3
+May 19 19:48 : update: added foobar2000/Yooh/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/65 The First Step.mp3
+May 19 19:48 : update: added foobar2000/Yuta Imai/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/64 JOK3R.mp3
+May 19 19:48 : update: added foobar2000/yu_tokiwa.djw/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/109 murmur twins.mp3
+May 19 19:48 : update: added foobar2000/Zekk/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/30 S7AGE.mp3
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/01. Dave Rodgers - Space Boy.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/02. Mega NRG Man - Get Me Power.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/03. Go Go Girls - One Night in Arabia.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/04. Derreck Simons - Make My Day.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/05. King _ Queen - Dancing Queen (S.K. Factory Remix).flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/06. Max Coveri - Running in the 90_s.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/07. Derreck Simons - Station to Station.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/08. Vicky Vale - Dancing.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/09. Victoria - Stay.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/10. Leslie Parrish - Save Me.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/11. Priscilla - Love Is in Danger.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/12. Leslie Parrish - Remember Me.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/13. Wain L - Make Up Your Mind.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/14. Dave Rodgers - Beat of the Rising Sun.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/15. Mickey B. - Take My Soul.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/16. Mega NRG Man - Burning Desire.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/17. Jilly - Be My Babe.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/18. Sophie - Lonely Love.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/19. Susan Bell - My Only Star.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/20. Nathalie - Heartbeat.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/22. Mega NRG Man - Back on the Rocks.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/23. Leslie Parrish - Killing My Love.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/23. Leslie Parrish - Killing My Love.mp3
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/24. Mega NRG Man - Grand Prix.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/25. Dr. Love - Don_t Stand So Close.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/25. Dr. Love - Don_t Stand So Close.mp3
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/26. Dave McLoud - Gimme the Night.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/06. Max Coveri - Running in the 90_s.mp3
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/21. Marko Polo - Speedy Speed Boy.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/27. Dave Rodgers - Deja Vu.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/28. Edo Boys - No One Sleep in Tokyo.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/29. Dave Rodgers - 100.flac
+May 19 19:48 : update: added foobar2000/[2000.03.08] Initial D D Best Selection/30. Dave McLoud - Mikado.flac
+May 19 19:48 : update: added foobar2000/いちか/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/79 ミッドナイト☆WAR.mp3
+May 19 19:48 : update: added foobar2000/おもしろ三国志/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/21 Dual Bladez.mp3
+May 19 19:48 : update: added foobar2000/かめりあ/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/02 Small Steps.mp3
+May 19 19:48 : update: added foobar2000/かめりあ/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/24 Midnight Amaretto.mp3
+May 19 19:48 : update: added foobar2000/中島由貴 × いちか/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/87 ランカーキラーガール (STARDOM Remix.mp3
+May 19 19:48 : update: added foobar2000/猫叉Master feat.林ももこ/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/110 Flying soda.mp3
+May 19 19:48 : update: added foobar2000/紅色リトマス/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/117 凛として咲く花の如く.mp3
+May 19 19:49 : client: [5] closed
+May 19 19:49 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/01. Dave Rodgers - Space Boy.flac"
+May 19 19:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 19:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 19:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 19:50 : client: [0] opened from 127.0.0.1:47524
+May 19 19:50 : client: [1] opened from [::1]:40390
+May 19 19:51 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/01. Dave Rodgers - Space Boy.flac"
+May 19 19:52 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 19:52 : client: [2] opened from 127.0.0.1:47530
+May 19 19:52 : client: [2] closed
+May 19 19:52 : client: [3] opened from 127.0.0.1:47532
+May 19 19:52 : client: [3] closed
+May 19 19:52 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 19:53 : client: [1] closed
+May 19 19:53 : client: [4] opened from [::1]:40402
+May 19 19:55 : client: [4] closed
+May 19 19:56 : player: played "02 - Aliake.mp3"
+May 19 20:00 : client: [5] opened from 127.0.0.1:47572
+May 19 20:00 : client: [5] closed
+May 19 20:12 : client: [0] closed
+May 19 20:12 : player: played "03 - GLITCH SWITCH.mp3"
+May 19 20:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 20:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 20:13 : client: [0] opened from 127.0.0.1:47272
+May 19 20:17 : client: [1] opened from 127.0.0.1:47274
+May 19 20:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 20:17 : client: [1] closed
+May 19 20:17 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:17 : client: [2] opened from [::1]:55418
+May 19 20:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:18 : player: played "foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/88 50th Memorial Songs -Beginning St.mp3"
+May 19 20:27 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:27 : client: [3] opened from 127.0.0.1:47402
+May 19 20:27 : client: [3] closed
+May 19 20:30 : client: [4] opened from 127.0.0.1:47408
+May 19 20:30 : client: [4] closed
+May 19 20:31 : client: [5] opened from 127.0.0.1:47462
+May 19 20:31 : client: [5] closed
+May 19 20:31 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:31 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:31 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:33 : player: played "01 - Wondertainer.mp3"
+May 19 20:36 : player: played "02 - Aliake.mp3"
+May 19 20:40 : player: played "03 - GLITCH SWITCH.mp3"
+May 19 20:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:41 : player: played "foobar2000/BEMANI Sound Team _HuΣeR_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/08 NewAige.mp3"
+May 19 20:42 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:42 : player: played "foobar2000/紅色リトマス/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/117 凛として咲く花の如く.mp3"
+May 19 20:42 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:43 : client: [2] closed
+May 19 20:43 : client: [6] opened from [::1]:55836
+May 19 20:44 : player: played "foobar2000/BEMANI Sound Team _dj TAKA_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/75 Trill auf G (DANCERUSH Style).mp3"
+May 19 20:44 : player: played "foobar2000/BEMANI Sound Team _DJ TOTTO_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/04 DOWNER & UPPER.mp3"
+May 19 20:45 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:45 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:46 : player: played "foobar2000/BEMANI Sound Team _PHQUASE_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/76 voltississimo (DANCERUSH Style).mp3"
+May 19 20:48 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/01. Dave Rodgers - Space Boy.flac"
+May 19 20:50 : player: played "foobar2000/BEMANI Sound Team _PHQUASE_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/76 voltississimo (DANCERUSH Style).mp3"
+May 19 20:51 : client: [7] opened from 127.0.0.1:47786
+May 19 20:51 : player: played "foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/53 Luminous Pajama.mp3"
+May 19 20:51 : client: [7] closed
+May 19 20:53 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 19 20:55 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/25. Dr. Love - Don_t Stand So Close.mp3"
+May 19 20:57 : player: played "foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/53 Luminous Pajama.mp3"
+May 19 20:59 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/01. Dave Rodgers - Space Boy.flac"
+May 19 21:03 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/03. Go Go Girls - One Night in Arabia.flac"
+May 19 21:05 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/04. Derreck Simons - Make My Day.flac"
+May 19 21:07 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/05. King _ Queen - Dancing Queen (S.K. Factory Remix).flac"
+May 19 21:09 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/06. Max Coveri - Running in the 90_s.flac"
+May 19 21:12 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/07. Derreck Simons - Station to Station.flac"
+May 19 21:12 : client: [6] closed
+May 19 21:13 : client: [8] opened from 127.0.0.1:47942
+May 19 21:13 : client: [8] closed
+May 19 21:17 : client: [9] opened from 127.0.0.1:47958
+May 19 21:17 : client: [9] closed
+May 19 21:17 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/08. Vicky Vale - Dancing.flac"
+May 19 21:20 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/09. Victoria - Stay.flac"
+May 19 21:22 : client: [10] opened from 127.0.0.1:47990
+May 19 21:22 : client: [10] closed
+May 19 21:25 : client: [11] opened from 127.0.0.1:47996
+May 19 21:25 : client: [11] closed
+May 19 21:25 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/10. Leslie Parrish - Save Me.flac"
+May 19 21:25 : client: [12] opened from 127.0.0.1:47998
+May 19 21:25 : client: [12] closed
+May 19 21:26 : client: [13] opened from 127.0.0.1:48000
+May 19 21:26 : client: [13] closed
+May 19 21:26 : client: [14] opened from 127.0.0.1:48002
+May 19 21:26 : client: [14] closed
+May 19 21:31 : client: [15] opened from 127.0.0.1:48008
+May 19 21:31 : client: [15] closed
+May 19 21:32 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/11. Priscilla - Love Is in Danger.flac"
+May 19 21:32 : client: [16] opened from 127.0.0.1:48022
+May 19 21:32 : client: [16] closed
+May 19 21:55 : client: [17] opened from 127.0.0.1:48212
+May 19 21:55 : client: [17] closed
+May 19 21:55 : client: [18] opened from [::1]:56356
+May 19 21:55 : client: [18] closed
+May 19 21:57 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/12. Leslie Parrish - Remember Me.flac"
+May 19 21:59 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/13. Wain L - Make Up Your Mind.flac"
+May 19 22:01 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/14. Dave Rodgers - Beat of the Rising Sun.flac"
+May 19 22:02 : client: [19] opened from 127.0.0.1:48276
+May 19 22:02 : client: [19] closed
+May 19 22:08 : client: [20] opened from 127.0.0.1:48316
+May 19 22:08 : client: [20] closed
+May 19 22:08 : client: [21] opened from 127.0.0.1:48330
+May 19 22:08 : client: [21] closed
+May 19 22:10 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/16. Mega NRG Man - Burning Desire.flac"
+May 19 22:11 : client: [22] opened from 127.0.0.1:48404
+May 19 22:11 : client: [22] closed
+May 19 22:26 : client: [0] closed
+May 19 22:26 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/17. Jilly - Be My Babe.flac"
+May 21 11:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 11:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 11:17 : client: [0] opened from 127.0.0.1:48302
+May 21 11:18 : client: [1] opened from [::1]:38308
+May 21 11:18 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/17. Jilly - Be My Babe.flac"
+May 21 11:18 : update: removing foobar2000/Aiobahn/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/55 Twinkle.mp3
+May 21 11:18 : update: removing foobar2000/Akira Complex & Slyleaf/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/34 As I go.mp3
+May 21 11:18 : update: removing foobar2000/Akira Complex/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/72 BLACK JACKAL.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _dj TAKA_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/75 Trill auf G (DANCERUSH Style).mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/88 50th Memorial Songs -Beginning St.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/70 50th Memorial 50th Memorial Songs.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/69 50th Memorial 50th Memorial Songs.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/68 50th Memorial 50th Memorial Songs.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _PON_ feat.NU-KO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/73 おーまい！らぶりー！すうぃーてぃ！だーりん！ (DANCERUSH.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _PHQUASE_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/76 voltississimo (DANCERUSH Style).mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _HuΣeR_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/08 NewAige.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _DJ TOTTO_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/09 FLOWER (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _DJ TOTTO_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/04 DOWNER & UPPER.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _The Foie-Gras of The/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/07 Robot Loves Smoked-Salmon.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/83 BREDLI.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/66 灼熱Beach Side Bunny (STARDOM Remix.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/53 Luminous Pajama.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/25 THE SAFARI (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/10 Impress.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/05 Oppress.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _Sota F._ feat. Starbi/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/38 Love 2 Shuffle.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _Sota F._/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/51 BEYOND THE EARTH (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _Sota F._/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/03 Don't Stop!!.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _S-C-U & SYUNN_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/74 toy boxer (DANCERUSH Style).mp3
+May 21 11:18 : update: removing foobar2000/BlackY/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/59 Starlight Kiss.mp3
+May 21 11:18 : update: removing foobar2000/BlackY/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/40 Crystarium.mp3
+May 21 11:18 : update: removing foobar2000/Blacklolita/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/33 Visnu.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _猫叉劇団_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/71 Afterimage d'automne.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _猫叉Master_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/36 Shuffle cats.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _劇団レコード/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/37 GHOST KINGDOM.mp3
+May 21 11:18 : update: removing foobar2000/BEMANI Sound Team _Yvya × Mutsuhiko Izum/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/78 Six String Proof (DANCERUSH Style.mp3
+May 21 11:18 : update: removing foobar2000/Dirty Androids/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/16 Majestic.mp3
+May 21 11:18 : update: removing foobar2000/CHEAP CREAM/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/57 Memories.mp3
+May 21 11:18 : update: removing foobar2000/Carpainter/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/13 Deep Vibes.mp3
+May 21 11:18 : update: removing foobar2000/Camellia feat. AiMEE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/93 True Blue (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/DJ TOTTO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/100 Astrogazer.mp3
+May 21 11:18 : update: removing foobar2000/DJ TECHNORCH with BEMANI Sound Team/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/77 最小三倍完全数 (DANCERUSH Style).mp3
+May 21 11:18 : update: removing foobar2000/Dubscribe/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/63 Switch.mp3
+May 21 11:18 : update: removing foobar2000/hara (HyperJuice)/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/61 RAVELINE ATTACK.mp3
+May 21 11:18 : update: removing foobar2000/HHH×MM×ST/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/94 朧.mp3
+May 21 11:18 : update: removing foobar2000/HiBiKi/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/14 DO YOU WANNA PARTY!!(DJ KEN-BOW M.mp3
+May 21 11:18 : update: removing foobar2000/HIDEKI NAGANUMA/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/104 LUV CAN SAVE U.mp3
+May 21 11:18 : update: removing foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/107 Wowie Zowie!.mp3
+May 21 11:18 : update: removing foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/99 Drop The Bounce..mp3
+May 21 11:18 : update: removing foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/90 Undercover.mp3
+May 21 11:18 : update: removing foobar2000/Hommarju/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/01 Wicked.mp3
+May 21 11:18 : update: removing foobar2000/kiraku/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/86 new heaven.mp3
+May 21 11:18 : update: removing foobar2000/Kenichi Chiba/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/41 Love Me.mp3
+May 21 11:18 : update: removing foobar2000/KAN TAKAHIKO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/47 Auto Click.mp3
+May 21 11:18 : update: removing foobar2000/KAN TAKAHIKO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/31 Bad Riddim.mp3
+May 21 11:18 : update: removing foobar2000/KAN TAKAHIKO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/17 Jalebi.mp3
+May 21 11:18 : update: removing foobar2000/HyperJuice/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/18 Bad Boy Birdwatch.mp3
+May 21 11:18 : update: removing foobar2000/kors k vs BEMANI Sound Team _L.E.D._/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/67 Set Me Free.mp3
+May 21 11:18 : update: removing foobar2000/kors k feat.福島蘭世/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/54 DANCERUSH STARDOM ANTHEM.mp3
+May 21 11:18 : update: removing foobar2000/kors k feat.Starbitz/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/106 DUB I DUB.mp3
+May 21 11:18 : update: removing foobar2000/kors k feat.Starbitz/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/97 Butterfly (STARDOM Remix.mp3
+May 21 11:18 : update: removing foobar2000/kors k feat. Suzuyo Miyamoto/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/114 Special One.mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/118 smooooch ・∀・.mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/108 SigSig.mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/103 渚の小悪魔ラヴリィレイディオ (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/85 Gymnopedie.mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/81 Poochie.mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/39 Catch Our Fire! (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/23 †渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/kors k/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/06 Garuda.mp3
+May 21 11:18 : update: removing foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/95 MUTSUKI.mp3
+May 21 11:18 : update: removing foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/46 Chaos of Drum.mp3
+May 21 11:18 : update: removing foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/32 Party Jumpin'.mp3
+May 21 11:18 : update: removing foobar2000/KO3/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/22 Summery.mp3
+May 21 11:18 : update: removing foobar2000/PSYQUI/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/62 Stepper.mp3
+May 21 11:18 : update: removing foobar2000/Polyphonix/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/42 C'mon baby.mp3
+May 21 11:18 : update: removing foobar2000/nora2r/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/82 Honey Bounce.mp3
+May 21 11:18 : update: removing foobar2000/Nhato/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/28 Summer's End.mp3
+May 21 11:18 : update: removing foobar2000/nana(Sevencolors) feat.mana/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/49 Nighthiker.mp3
+May 21 11:18 : update: removing foobar2000/nana(Sevencolors) feat. mana/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/89 December in Strasbourg.mp3
+May 21 11:18 : update: removing foobar2000/nagomu tamaki/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/43 Be My Baby.mp3
+May 21 11:18 : update: removing foobar2000/nagomu tamaki/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/15 Mandrake.mp3
+May 21 11:18 : update: removing foobar2000/Moe Shop/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/45 Audiovisual.mp3
+May 21 11:18 : update: removing foobar2000/Moe Shop/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/35 Nightlife.mp3
+May 21 11:18 : update: removing foobar2000/MK/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/56 Fire Spirit.mp3
+May 21 11:18 : update: removing foobar2000/MK/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/27 Don't Be Afraid.mp3
+May 21 11:18 : update: removing foobar2000/MK/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/19 HighBALL.mp3
+May 21 11:18 : update: removing foobar2000/Masayoshi Iimori/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/20 Raw Crawler.mp3
+May 21 11:18 : update: removing foobar2000/MARON (IOSYS)/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/84 BENJAMIN.mp3
+May 21 11:18 : update: removing foobar2000/lapix/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/80 glacia (STARDOM Remix).mp3
+May 21 11:18 : update: removing foobar2000/lapix/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/12 Kill The Beat.mp3
+May 21 11:18 : update: removing foobar2000/L.E.D.-G/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/116 DAWN OF FALCON.mp3
+May 21 11:18 : update: removing foobar2000/L.E.D.-G/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/111 RISING FIRE HAWK.mp3
+May 21 11:18 : update: removing foobar2000/KOTONOHOUSE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/44 take me higher.mp3
+May 21 11:18 : update: removing foobar2000/Shouya Namai/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/60 Awakening.mp3
+May 21 11:18 : update: removing foobar2000/Ryu☆ feat.Mayumi Morinaga/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/105 Din Don Dan.mp3
+May 21 11:18 : update: removing foobar2000/Ryu☆/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/112 Sakura Sunrise.mp3
+May 21 11:18 : update: removing foobar2000/RoughSketch/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/52 Get On The Floor.mp3
+May 21 11:18 : update: removing foobar2000/Relect/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/96 SHINOBI.mp3
+May 21 11:18 : update: removing foobar2000/Relect/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/48 Disco Nights.mp3
+May 21 11:18 : update: removing foobar2000/Relect/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/29 Shiva.mp3
+May 21 11:18 : update: removing foobar2000/Sota feat. Brenda V_/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/113 Saturday Night Love.mp3
+May 21 11:18 : update: removing foobar2000/Sota Fujimori/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/101 Saturday Night Love -Phunk Disco.mp3
+May 21 11:18 : update: removing foobar2000/STUDIO MOTTIE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/91 MY NAME IS.mp3
+May 21 11:18 : update: removing foobar2000/TAKU INOUE/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/26 Forgetting Machine.mp3
+May 21 11:18 : update: removing foobar2000/TANUKI/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/58 Night & Day.mp3
+May 21 11:18 : update: removing foobar2000/U1 overground/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/98 Electric Dance System Music.mp3
+May 21 11:18 : update: removing foobar2000/USAO/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/115 Hastur.mp3
+May 21 11:18 : update: removing foobar2000/VENUS/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/50 Thank You Merry Christmas -DANCER.mp3
+May 21 11:18 : update: removing foobar2000/Yooh/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/65 The First Step.mp3
+May 21 11:18 : update: removing foobar2000/Yooh/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/11 Crazy Shuffle.mp3
+May 21 11:18 : update: removing foobar2000/yu_tokiwa.djw/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/109 murmur twins.mp3
+May 21 11:18 : update: removing foobar2000/Yuta Imai/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/64 JOK3R.mp3
+May 21 11:18 : update: removing foobar2000/Zekk/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/30 S7AGE.mp3
+May 21 11:18 : update: removing foobar2000/いちか/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/79 ミッドナイト☆WAR.mp3
+May 21 11:18 : update: removing foobar2000/おもしろ三国志/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/21 Dual Bladez.mp3
+May 21 11:18 : update: removing foobar2000/かめりあ/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/24 Midnight Amaretto.mp3
+May 21 11:18 : update: removing foobar2000/かめりあ/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/02 Small Steps.mp3
+May 21 11:18 : update: removing foobar2000/中島由貴 × いちか/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/87 ランカーキラーガール (STARDOM Remix.mp3
+May 21 11:18 : update: removing foobar2000/猫叉Master feat.林ももこ/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/110 Flying soda.mp3
+May 21 11:18 : update: removing foobar2000/紅色リトマス/DANCERUSH STARDOM ORIGINAL SOUNDTRACK/117 凛として咲く花の如く.mp3
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/08 - 猫叉Master - Symmetry.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/23 - DJ CHUCKY - BLUE MIRAGE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/01 - Y&Co. - TA・DA ☆ YO・SHI.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/02 - 劇団レコード - COLOSSEUM.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/03 - HALFBY - とろぴかる倶楽部.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/04 - GUHROOVY feat. NO+CHIN - Light My Fire.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/05 - L.E.D. - IXION.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/06 - SWING HOLIC feat. A〜YA - 時空トラベローグ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/07 - 猫叉Master - Beyond The Earth.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/09 - L.E.D.-G - NEO GENERATOR SEVEN.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/10 - 金獅子 VS 麒麟 - Broken Sword.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/11 - kors k - Say YEEEAHH.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/12 - Eagle - Reflux.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/13 - SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/14 - SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/15 - Rche - entelecheia.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/16 - Dollscythe - Flashes.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/17 - 8bit Moonside - Cosmic Cat.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/18 - dj TAKA - Shooting Fireball.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/19 - 機龍 - Ravexit!! Ravexit!!.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/20 - 猫叉Master - Despair of ELFERIA.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/21 - kors k VS 猫叉Master+ - Chain of pain.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/22 - D.J.SETUP - GUILTY.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/24 - TOMOSUKE - IMPLANTATION.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/25 - Remixed by DJ TECHNORCH fw.GUHROOVY - HELL SCAPER -Last Escape Remix-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/26 - アイテール魔導士隊 - 共鳴遊戯の華.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/27 - 猫叉L.E.D.Master+ - Chrono Diver -PENDULUMs-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/08 - 8bit Moonside - Cosmic Cat (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/01 - 黒猫ダンジョン - リリーゼと炎龍レーヴァテイン.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/02 - 猫叉Master - fallen leaves -IIDX edition-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/03 - Akhuta - Ludus In Tenebris.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/04 - 猫叉Master - Scars of FAUNA.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/05 - DJ GW - 全力 SPECIAL VACATION!! 〜限りある休日〜.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/06 - 猫叉Master - Back to chronos.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/07 - L.E.D. - KAIROS IN THE SPACE TIME.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/09 - onoken - Amnolys Long.ver.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/10 - RoughSketch feat. Aikapin - No Tears (Original Full Length).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/11 - Dollscythe - Flashes (Extended).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/12 - PHQUASE - cinder -ella-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/13 - かめりあ - chrono diver -fragment- (かめりあ's ''crossroads of chrono'' remix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/14 - Nhato - CHRONO DIVER -NORNIR- (Nhato Remix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/15 - USAO - Chrono Diver -PENDULUMs- (USAO remix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/08 - ARM feat. 普透明度 + Brasscapsule - 星屑ディスタンシア.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/16 - DJ Genki feat. SHIN from HYPERNOVA - To The Paradise.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/01 - S-C-U vs L.E.D. - DIAMOND CROSSING.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/02 - かめりあ - Routing.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/03 - Sota Fujimori - Transport.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/04 - Dirty Androids - Exchange Place.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/05 - cosMo＠暴走P - 朝焼けから始まるボクらの小さな旅.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/06 - 星野奏子 - シュッパツシンコウ・シサカンコ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/07 - DJ NAGAI feat. Ayumi Nomiya - Dreamin Train.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/09 - PHQUASE - 追想快晴テーマパーク.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/10 - lapix - Inner Spirit.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/11 - Maozon - Damage Per Second.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/12 - ni-21 - Acid Pumper.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/13 - MK - do the thing feat. Kanae Asaba.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/14 - Nhato - Nowhere.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/15 - Y&Co. - Set U Free feat. Kanae Asaba.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/17 - kors k - Uh-Oh.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/18 - PxLight - STARLIGHT DANCEHALL.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/19 - DJ Shimamura - GET READY!!.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/20 - RoughSketch - Musik LoverZ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/21 - DJ Noriken feat. Yukacco - Go Faraway.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/22 - dj TAKA feat.AiMEE - refrain.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/23 - Xceon feat. Mayumi Morinaga - オルタネイトβ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/24 - HHH×MM×ST - Everlasting Last.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/25 - SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi - SURVIVOR.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/26 - LIQU@。 - NANAIRO.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/27 - YURiCa,花たん - SHELTER OF THE MIND.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/28 - onoken feat. ALIAKE - Aublia.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/29 - USAO - Dynamite.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/30 - DJ SHARPNEL feat. みらい - めいさいアイドル☆あいむちゃん♪.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/31 - m1dy - m1dy Dynamic.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/32 - GUHROOVY feat. NO+CHIN & Yuki - Ride To The Core.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/33 - DJ Myosuke - Devil's Gear.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/08 - LIQU@。 - NANAIRO (long version).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/01 - Ryu☆ - Donkey Donk.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/02 - Vivian - Wheel of Journey.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/03 - U1 overground - セロトニン.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/04 - DJ TOTTO - 少女アリスと箱庭幻想コンチェルト.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/05 - Project B- - 太陽SUNSUNボンジュールアバンチュール.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/06 - DJ Mass MAD Izmx - 灼熱 Pt.2 Long Train Running.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/07 - USAO - Dynamite (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/09 - PxLight - STARLIGHT DANCEHALL (Extend Ver.).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/10 - Nhato - Nowhere (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/11 - DJ SHARPNEL feat. みらい - めいさいアイドル☆あいむちゃん♪ (bullet unlimited mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/12 - lapix - Inner Spirit (Extended).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/13 - Maozon - Damage Per Second (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_2/14 - ni-21 - Acid Pumper (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-01 BEMANI Sound Team HuΣeR+ - R∞tAge.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-02 BEMANI Sound Team dj TAKA - HEISEI.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-03 BEMANI Sound Team S-C-U vs L.E.D. - THE DAY OF JUBILATIONS.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-04 kors k - Wonderland.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-05 DJ Noriken - dAuntl3ss.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-06 USAO & DJ Nanashi - Wing of Hearts.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-07 aran - L.F.O.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-09 Massive New Krew feat.松平なな - Starry Night.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-10 Hommarju - Dr. Chemical & Killing Machine.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-11 Remixed by BEMANI Sound Team HuΣeR feat.PON - HOT LIMIT.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-12 Remixed by BEMANI Sound Team PHQUASE feat.TRANDER Jr. - U.S.A..flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-13 Remixed by BEMANI Sound Team TAG feat. 柊木りお - サクラあっぱれ-しょん.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-14 Remixed by BEMANI Sound Team L.E.D. & IOSYS - Won(3)Chu KissMe!.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-15 Xceon - 夏の匂い。キミの残像。 ft. Kanae Asaba.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-16 かめりあ feat. ななひら - ハードベース・フェスタ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-17 OSTER project feat. echo - セカンドピアス.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-18 Y&Co. - ROCK女 feat. 大山愛未, Ken.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-19 ☆Taku Takahashi (m-flo, block.fm) - The Best of Both Worlds.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-20 RINA - IDOL syndrome..flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-21 RoughSkreamZ - 花冠 feat.Aikapin.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-23 BEMANI Sound Team 劇団レコード - グラナダの風.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-24 Maozon feat. Kyte - Twilight Warp.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-25 DJ Mass MAD Izm - IDC feat.REVERBEE (Mo'Cuts Ver).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-26 Masayoshi Iimori - Hurry Hurry.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-27 sasakure.UK - Xlø.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-28 Dirty Androids - Urban Constellations.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-29 月代 彩 - Angels & Demons.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-08 DJ NAGAI - AGAiN.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-22 空中分解feat.アンテナガール - OVER TIME.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-03 Blacklolita - GIGA THRASH.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-18 かめりあ feat. ななひら - ハードベース・フェスタ (Длинная версия).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-04 L.E.D.ALiCE(DJ NAGAI Vs. BEMANI Sound Team L.E.D.-G) - DEATH†ZIGOQ ~怒りの高速爆走野郎~.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-11 BEMANI Sound Team Saori Watanabe - バスルーム ロマンス.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-19 USAO - Rampage.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-05 lapix - Slipstream.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-12 DJ TECHNORCH feat.宇宙★海月 vs BEMANI Sound Team U1-ASAMi - 真説・東京神話.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-30 Pizuya's Cell - Let me be your cure.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-31 BEMANI Sound Team 黒猫ダンジョン - 龍王の霊廟(Mausoleum Of The Primal Dragon).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-32 BEMANI Sound Team person09 - A Tale Hidden In The Abyss.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-33 soejima takuma feat.BEMANI Sound Team 猫叉Master - ミストレス・アンに花束を.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-01 BEMANI Sound Team L.E.D. VS. L.E.D.-G - KILL EACH OTHER.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-02 AJURIKA - SPEED ROCKER.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-04 BEMANI Sound Team SYUNN - Psycho Sheep Riddim.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-05 Yamato - Level One.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-06 DJ Myosuke - The Rebellion of Sequencer.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-07 BEMANI Sound Team Expander - Digital Skipper.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-08 Ryu☆ - CoMAAAAAAA.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-09 KSUKE - Serious (Short ver.).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-10 lapix - Cranberry City ft. Luschel.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-11 YUC'e - Yum Yum Jelly.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-12 Nhato - Ember Lights.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-13 kradness - Glory.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-14 Maozon feat. Kyte - Twilight Warp (Full Version).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-15 RINA - IDOL syndrome. - extend version.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-16 Pizuya's Cell - Let me be your cure -long version-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-17 Nhato - Ember Lights (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-19 Blacklolita - GIGA THRASH (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-20 AJURIKA - SPEED ROCKER -EXTRA SPIKE EDIT-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-21 DUNE & M-Project & GUHROOVY - Technicolour Dreams (Extended Version).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-01 maras kmarasy×kors k - 2 Player.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-02 lapix - LIGHTS ft. EVO+.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-03 日龍 - SUNLiGHT (IIDX Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-05 BEMANI Sound Team Expander - Expanded !!.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-06 BEMANI Sound Team TAG - Beast mode.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-07 BEMANI Sound Team RACER-X - FIRE BALL.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-08 Y&Co. - Son, not gabba now.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-09 ota2 - Usual Days-remix.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-10 DJ TECHNORCH feat.宇宙★海月 vs BEMANI Sound Team U1-ASAMi - 東京神話.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-12 Eagle - Boomy and The Boost.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-13 志方あきこ - 命の標本.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-14 RAM - SHOX.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-15 猫叉Master+ - encounter.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-16 BEMANI Sound Team DJ TOTTO feat.rionos - シムルグの目醒め.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-17 YUC'e - n'pa pa BBQ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-18 COSIO - Rise Circuit.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-20 Scott Brown & M-Project - The Revolution (VIP Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-21 DJ CHUCKY - HYPE THE CORE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-22 Dirty Androids - City Never Sleeps (IIDX Edition).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-23 BEMANI Sound Team 謎の勢力 - Initiation.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-24 RoughSketch - Life Is A Game ft.DDナカタMetal.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-25 255 - 255.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-26 C-Show - ANAGMA.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-27 Feryquitous - Fervidex.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-28 sanodg - From Time To Time.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-29 AIKO OI - Eine Haube ~聖地の果てにあるもの~.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-01 Massive New Krew - Persephone.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-02 Maozon vs. C-Show - Around the Future.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-03 OSTER project - Raspberry Railgun.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-04 DJ Noriken - Illusionary Waterlily.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-06 t+pazolite - Antigravity.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-07 BEMANI Sound Team SYUNN - Papilio ulysses.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-08 BEMANI Sound Team HuΣeR vs dj Hellix - EMERALDAS.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-09 BEMANI Sound Team HuΣeR Vs. SYUNN - ANCHOR.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-10 BEMANI Sound Team HuΣeR vs dj Hellix - EMERALDAS (EXTENDED MIX).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-11 C-Show - ANAGMA (EXTENDED MIX).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-13 RoughSketch - Life Is A Game ft.DDナカタMetal (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-14 lapix - Slipstream (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-15 sanodg - From Time To Time (To Time Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-16 志方あきこ - 命の標本- Extended Mix.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-17 BEMANI Sound Team 謎の勢力 - Initiation -aggressive solicitation mix-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-18 BEMANI Sound Team TAKA on the circuit - Road to Cannon Ballers.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/05 - Sampling Masters MEGA - Rave lithosphere.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/01 - BEMANI Sound Team ''HuΣeR'' feat.Fernweh - VALKYRIAS -英雄誕生-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/02 - BEMANI Sound Team ''L.E.D.-G'' - THE BRAVE MUST DIE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/03 - DJ Shimamura - Volcanic Dragon.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/04 - RoughSketch & TARACHINE - T-REX vs Velociraptor (In the Far east euphoria).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/06 - AJURIKA - TRIUMPH.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/07 - BEMANI Sound Team ''U1 overground'' - Queen Kaguya.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/08 - BEMANI Sound Team ''SYUNN'' - Do What You Want.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/09 - Masayoshi Iimori - NEWALONE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/10 - Dazsta - Drop It.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/11 - lapix - Primitive Vibes.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/12 - KSUKE - Ohayo! (Short Version).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/13 - Maozon feat. Chica - Rainstorm.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/14 - AJURIKA feat. 矢吹真央 - Moving on.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/15 - Y&Co. - NRG STAR '86 feat. 大山愛未.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/16 - Ryu☆ - Beautiful Harmony (IIDX Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/17 - Bemani Sound Team ''Sota Fujimori'' - Hold My Hand.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/18 - BEMANI Sound Team ''Akhuta Works'' feat. Nana Takahashi - 曼荼羅恋々.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/19 - BEMANI Sound Team ''劇団レコード'' - OUTER PLANETS.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/20 - OSTER project - 深淵に捧ぐレクイエム.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/21 - Nhato - Virus Funk.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/22 - Dirty Androids - Infinity Mirror.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/23 - 佐野電磁 - Duration.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/24 - ARM × kradness - Change Yourself.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/25 - kors k - Nasty Techniques.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/26 - BEMANI Sound Team ''SETUP from Berlin'' - TECHNO Style Essentials.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/27 - かめりあ feat. ななひら - Ska-sh All Neurons!!.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/28 - ビートまりお - beatAffection.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/29 - パソコン音楽クラブ - Hyper Drive feat. ぷにぷに電機.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/30 - Tomggg - fairy cocktail.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/31 - Applekid - Mel.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/32 - DÉ DÉ MOUSE - Silly Love.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/01 - BEMANI Sound Team ''T.Kakuta'' feat. 709sec. , 花たん - UNITE THE HEART.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/02 - Xceon - セピアの軌跡 ft. 天宮みや(少女フラクタル).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/03 - OSTER project feat. かなたん - Calvados Queen.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/04 - ゴールデンボンバー arranged by DJ Mass(VIVID Neonx) - 令和(1991RAVE REMIX).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/06 - Remixed by すわひでお & uno(IOSYS) - 俺ら東京さ行ぐだ.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/07 - Remixed by BEMANI Sound Team ''HuΣeR feat.PON'' - EXCITE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/08 - BEMANI Sound Team ''L.E.D.'' - PHASE SHIFT MANEUVER.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/09 - BEMANI Sound Team ''HuΣeR'' - LIGHTNING STRIKES.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/10 - kors k - Sugar Drippin'.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/11 - Blacklolita - GIGA VIOLATE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/13 - Fujishiro feat. KNA - And-RoiD.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/14 - Nhato - Override.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/15 - Crayvxn - Crank It.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/16 - BEMANI Sound Team ''TAG'' - AKASHIC BREAK.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/17 - TAKU INOUE - Backyard Stars.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/18 - Maozon feat. Chica - Rainstorm (Original Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/19 - Fujishiro feat. KNA - And-RoiD -LONG VERSION-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/20 - Dazsta - Drop It (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/21 - DJ Shimamura - Volcanic Dragon (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/22 - BEMANI Sound Team ''SETUP from Berlin'' - TECHNO Style Essentials (original extended).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/23 - DÉ DÉ MOUSE - Silly Love (Original Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/24 - ARM × kradness - Change Yourself (long edit).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/25 - Nhato Vs. MK - VIBRΛ (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/05 - 上坂すみれ arranged by kors k - POP TEAM EPIC(kors k Remix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/12 - YUTO - Theory.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/01 - かめりあ - LOST TECHNOLOGIE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/02 - ARM×狐夢想 feat. ななひら - 爆ゼニ☆がってんワーカー.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/03 - BEMANI Sound Team ''Mutsuhiko Izumi'' - SIGMA.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/04 - SOUND HOLIC Vs. T.Kakuta feat. Nana Takahashi - ROZA DE ANDALUCIA.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/05 - 高田雅史 - ToyCube Pf.(RX-Ver.S.P.L.).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/06 - KING & Princess - Drastic Dramatic.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/07 - Xceon - Wolf 1061.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/08 - YUC'e - LADYBIRD.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/09 - BEMANI Sound Team ''L.E.D.'' feat. KOTOKO - UNDERWORLD HOLOGRAPHY.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/10 - kors k - Playing With Fire.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/11 - BEMANI Sound Team ''猫叉Master'' - Painful Fate.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/12 - BEMANI Sound Team ''TAG'' - BLO§OM.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/14 - SOUND HOLIC feat. Nana Takahashi - EVANESCENT.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/15 - BEMANI Sound Team ''HuΣeR'' - Necroxis Girl.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/16 - sanodg - Sidechained Threats.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/17 - kors k - Mächö Mönky.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/18 - CANVAS feat. Quimär - Carmina.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/19 - BEMANI Sound Team ''Sota Fujimori'' - Lift Us High.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/21 - Hommarju - Next Tales 2 Oath (IIDX 20th Anniv. ''Ring'' Theme).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/22 - Xceon feat. Mayumi Morinaga - 深愛のリグレット.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/23 - kors k - Garuda.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/24 - AJURIKA - HARD BRAIN.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/25 - Maozon - Geirskögul.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/26 - BEMANI Sound Team ''HEXA'' - CODE-Ø.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/27 - 上ノ瀬つかさ - ruin of opals.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/28 - SLAKE - REPLAY.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/29 - Feryquitous - Visterhv.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/13 - BEMANI Sound Team ''Anonymous'' - Unbelief.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/20 - ARM × BEMANI Sound Team ''U1 overground'' - ZENDEGI DANCE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/06 - DUNE & M-Project & GUHROOVY - Technicolour Dreams.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/01 - MM - Night! Night! Night!.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/02 - C-Show - Please Welcome Mr.C.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/03 - bermei.inazawa,feat.霜月はるか - 泰東ノ翠霞.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/04 - Zektbach - The Sealer 〜ア・ミリアとミリアの民〜.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/05 - Snail's House - お菓子の王国.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/07 - ももいろクローバーZ - Re-Story.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/08 - Mr.T - XENON II ～TOMOYUKIの野望～.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/09 - DJ TECHNORCH feat. 宇宙★海月 - 金野火織の金色提言.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/10 - DJ Mass MAD Izmx - Red. by Jack Trance.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/11 - 冬色AMOUR☆Prim - 抱きしめてモナムール.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/12 - lapix - & Intelligence.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/13 - m1dy - ONIGOROSHI.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/14 - BEMANI Sound Team ''Captain Sonic'' - COSMIC CYBER.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/15 - VINCENT GANATCH - GENE.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/16 - BEMANI Sound Team ''L.E.D.-G'' - GO OVER WITH GLARE -ROOTAGE 26-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/17 - T.Σ.Generation - X-DEN.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/18 - BEMANI Sound Team ''HuΣeR'' - Lethal Weapon.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/19 - Maozon - Geirskögul (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/20 - C-Show - Please Welcome Mr.C (20,000 POWER Extended).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/21 - Hommarju - Next Tales 2 Oath (IIDX 20th Anniv. ''Ring'' Theme) (Original Mix).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/22 - m1dy - ONIGOROSHI (LONG EDIT).flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/23 - AJURIKA - HARD BRAIN -ARENA EDIT-.flac
+May 21 11:18 : update: added foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/24 - librarians of Rootage (Ripnte, Stampa and Cleep) - 開きたまえ！Next stAge！(Full Length Version).flac
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/01 Feel 7he Emotion.mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/02 Nostalgic Flashback.mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/03 In My Cyber.mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/04 Alpharise.mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/05 Last Fate.mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/06 Forever Hearts (BlackY Remix).mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/07 Happybox.mp3
+May 21 11:18 : update: added foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/08 For Ulysses Featuring Yuzurisa.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/01 - Wicked.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/02 - Small Steps.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/03 - Don_t Stop!!.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/04 - DOWNER _ UPPER.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/05 - Oppress.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/06 - Garuda.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/07 - Robot Loves Smoked-Salmon.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/08 - NewAige.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/09 - FLOWER (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/10 - Impress.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/100 - Astrogazer.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/101 - Saturday Night Love -Phunk Disco Mix-.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/102 - Second Heaven -Samba,Samba,SomeBody MIX.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/103 - 渚の小悪魔ラヴリィレイディオ (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/104 - LUV CAN SAVE U.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/88 - 50th Memorial Songs -Beginning Story-.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/89 - December in Strasbourg.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/90 - Undercover.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/91 - MY NAME IS.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/92 - Midland Mainline.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/93-  True Blue (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/94 - 朧.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/95 - MUTSUKI.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/96 - SHINOBI.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/97 - Butterfly (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/98 - Electric Dance System Music.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/99 - Drop The Bounce.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/80 - glacia (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/81 - Poochie.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/82 - Honey Bounce.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/83 - BREDLI.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/84 - BENJAMIN.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/85 -  Gymnopedie (kors k mix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/86 - new heaven.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/87 - ランカーキラーガール (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/60 - Awakening.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/61 - RAVELINE ATTACK.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/62 - Stepper.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/63 - Switch.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/64 - JOK3R.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/65 - The First Step.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/66 - 灼熱Beach Side Bunny (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/67 - Set Me Free.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/68 - 50th Memorial 50th Memorial Songs -Flagship medley-.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/69 - 50th Memorial 50th Memorial Songs -The BEMANI History-.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/70 - 50th Memorial 50th Memorial Songs -二人の時 under the cherry blossoms-.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/15 - Mandrake.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/16 - Majestic.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/17 - Jalebi.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/18 - Bad Boy Birdwatch.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/19 - HighBALL.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/20 - Raw Crawler.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/21 - Dual Bladez.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/22 - Summery.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/23 - †渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/14 - DO YOU WANNA PARTY!!(DJ KEN-BOW MIX).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/24 - Midnight Amaretto.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/49 - Nighthiker.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/59 - Starlight Kiss.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/37 - GHOST KINGDOM.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/38 - Love 2 Shuffle.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/39 - Catch Our Fire! (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/40 - Crystarium.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/41 - Love Me.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/42 - C_mon baby.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/43 - Be My Baby.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/44 - take me higher.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/45 - Audiovisual.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/46 - Chaos of Drum.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/47 - Auto Click.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/48 - Disco Nights.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/105 - Din Don Dan.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/106 - DUB I DUB.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/107 - Wowie Zowie!.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/108 - SigSig.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/109 - murmur twins.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/11 - Crazy Shuffle.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/110 - Flying soda.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/111 - RISING FIRE HAWK.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/112 - Sakura Sunrise.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/50 - Thank You Merry Christmas -DANCERUSH Mix-.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/51 - BEYOND THE EARTH (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/52 - Get On The Floor.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/53 - Luminous Pajama.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/54 - DANCERUSH STARDOM ANTHEM.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/55 - Twinkle.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/56 - Fire Spirit.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/57 - Memories.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/58 - Night _ Day.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/25 - THE SAFARI (STARDOM Remix).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/26 - Forgetting Machine.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/27 - Don_t Be Afraid.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/28 - Summer_s End.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/29 - Shiva.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/30 - S7AGE.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/31 - Bad Riddim.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/32 - Party Jumpin_.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/33 - Visnu.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/34 - As I go.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/35 - Nightlife.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/36 - Shuffle cats.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/71 - Afterimage d_automne.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/72 - BLACK JACKAL.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/73 - おーまい！らぶりー！すうぃーてぃ！だーりん！ (DANCERUSH Style).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/74 - toy boxer (DANCERUSH Style).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/75 - Trill auf G (DANCERUSH Style).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/76 - voltississimo (DANCERUSH Style).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/77 - 最小三倍完全数 (DANCERUSH Style).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/78 - Six String Proof (DANCERUSH Style).mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/79 - ミッドナイト☆WAR.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/113 - Saturday Night Love.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/114 - Special One.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/115 - Hastur.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/116 - DAWN OF FALCON.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/117 - 凛として咲く花の如く.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/118 - smooooch ・∀・.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/12 - Kill The Beat.mp3
+May 21 11:18 : update: added foobar2000/Dancerush Stardom GST/13 - Deep Vibes.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1066 - 消失(Hommarju Remix).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1130 - 怪盗Ｆの台本～消えたダイヤの謎〜.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1131 - Sweetiex2.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1133 - Enjoy This Time.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1223 - Record one's Dream.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1286 - クレイジークレイジーダンサーズ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1287 - 零次元エクスプレス.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1288 - Colors.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1290 - 真夏の蜜と唇 fm. 希望の星は青霄に昇る.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1291 - 迷夢ソウル.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1292 - Princess Lily.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1293 - 抜刀.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1294 - Together Going My Way.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1295 - Addicted Moon.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1296 - Colorless feat.ももかみ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1297 - 全力ハッピーライフ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1298 - GALAXY BURST.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1299 - Revolution.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1303 - 君は Fantasista.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1304 - bistro twins☆☆☆.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1305 - FlowerNation.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1306 - lEyl.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1307 - 伊邪那美白山姫大神.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1308 - On take SUN.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1310 - GaLaXyEggPlanT.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1311 - vivid landscape.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1312 - 雲海.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1313 - 真夏の海の修道女.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1314 - BLIZZARD BEAT.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1315 - scary night.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1337 - 弱虫モンブラン.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1339 - 妄想税.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1289 - ARROW RAIN.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1309 - Cloud Crasher.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1340 - ストリーミングハート.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1358 - もってけ！セーラーふく／アニメ「らき☆すた」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1374 - Turn the story.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1391 - 120秒のエンドロール.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1408 - シープドリーミン.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1432 - 50th Memorial Songs -The BEMANI History-.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1449 - ゆりゆららららゆるゆり大事件（yuzen remix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1462 - ΣgØ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1485 - 最小三倍完全数.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1342 - ぼくらの16bit戦争.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1343 - Jack-the-Ripper◆.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1344 - すきなことだけでいいです.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1345 - Barbless Ego.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1346 - rE_Voltagers.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1347 - Liar rain.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1348 - Typhoon Craaash!!.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1350 - シュガーソングとビターステップ／アニメ「血界戦線」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1351 - only my railgun／アニメ「とある科学の超電磁砲」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1352 - ハレ晴レユカイ／アニメ「涼宮ハルヒの憂鬱」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1353 - ガヴリールドロップキック／アニメ「ガヴリールドロップアウト」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1354 - Paradisus-Paradoxum／アニメ「Re_ゼロから始める異世界生活」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1355 - ヒトリゴト／アニメ「エロマンガ先生」OP.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1356 - ようこそジャパリパークへ／アニメ「けものフレンズ」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1357 - RPG／アニメ「映画クレヨンしんちゃん バカうまっ！B級グルメサバイバル！！」より.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1359 - 君の知らない物語／アニメ「化物語」ED.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1360 - TENKAICHI ULTIMATE BOSSRUSH MEDLEY.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1369 - THE凸GENERATOR.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1370 - 翠雨の祷.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1371 - Sacrifice Escape_ 不条理の模倣による感情と代償.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1372 - clear_wings.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1373 - Atropa bella-donna.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1375 - Enigma II.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1376 - FIRST：DREAMS.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1377 - JǛPITΨR ♃ GЯÃVITÝ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1378 - empty.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1379 - Call of the World.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1380 - Barbatos.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1381 - ЯegreT of MemoRy.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1382 - Xicholauncher.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1383 - Aurolla.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1384 - Jacob’s Elevator.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1385 - SociuS.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1386 - Glorious Journey.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1387 - Hi-Fi!!双子'S.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1388 - Sharkbait.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1389 - び.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1390 - エンゲージ〆ント.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1392 - Cynical Joker.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1393 - 無魎大数.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1394 - アオアラシ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1395 - 港町レディ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1396 - ツマミ戦隊 タテレンジャー.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1397 - Vividly Impromptu.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1398 - VIVID DEBUT!.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1399 - Mischievous theater.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1400 - PARTY TIME!.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1401 - 近未来百鬼夜行譚～死返之巻〜.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1402 - Tribal Trial.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1403 - ultra turbo.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1404 - Sunflower Vibes.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1405 - Chocolate Parade.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1406 - CLOUDS FLYER -sdvx edit-.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1407 - eighth-slave.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1409 - Adrenaline Rush.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1410 - Enchanté.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1411 - アライヴ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1412 - Pixelated Platform.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1413 - D1g1t1ze b0dy.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1414 - Circulator.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1415 - V Sen5eS.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1416 - Bye or not.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1417 - 祭囃子.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1418 - 偶然？ 必然？ アンビバレンス！.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1419 - To_BrandNewDeadline.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1420 - Into The Madness.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1421 - PIZZATIME.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1422 - Believe (y)our Wings {V_IVID RAYS}.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1423 - Believe (y)our Wings {GRA5P WAVES}.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1424 - スイーツはとまらない♪.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1425 - 熱情のサパデアード.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1426 - 革命パッショネイト.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1427 - ヒカリユリイカ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1428 - ベビーステップ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1429 - 50th Memorial Songs -Beginning Story-.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1430 - 50th Memorial Songs -二人の時 ～under the cherry blossoms〜-.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1431 - 50th Memorial Songs -Flagship medley-.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1433 - ねこみみ(=ФωФ=)ぱんでみみっく.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1434 - タイムトラベル.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1435 - Believe In Yourself.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1436 - OZONE.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1437 - Dogeza Stairs.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1439 - 諏訪大信仰.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1440 - ΩBIRD.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1441 - 悪戯センセーション.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1442 - Get over!!.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1443 - Little Big Princess(DJ katsu EDIT).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1444 - Sweetest Paranoia.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1445 - DESIRE.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1446 - 太陽曰く燃えよカオス（Sol oscuro ¡Nya! Mix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1447 - Princess Rose（Sunshine Mix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1448 - One In A Billion（Hedonist Remix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1453 - 動く、動く（_A&M Chillin' _ Electro Remix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1454 - SAKURAスキップ（ハピネス mix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1455 - 回レ！雪月花 (Heart's Cry Remix).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1456 - STYX HELIX（Digi-Rock Remix）.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1459 - LECTORIA.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1460 - mqlo.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1461 - Aerial Fortress.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1463 - 星の透る夏空に願う.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1464 - Lancelot ～Flame of the Rebellion〜.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1465 - ΩVERFLOW.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1466 - Sudden Visitor.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1467 - Ghost Family Living In Graveyard.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1468 - petits fours.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1469 - ロキ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1472 - MARENOL.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1473 - Quark.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1474 - Black Lotus.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1475 - Nhelv.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1476 - AXION.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1481 - ミッドナイト☆WAR.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1482 - Trill auf G.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1483 - voltississimo.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1484 - toy boxer.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1486 - Six String Proof.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1487 - おーまい！らぶりー！すうぃーてぃ！だーりん！.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1488 - Afterimage d'automne.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1489 - BLACK JACKAL.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1490 - MAX BURNING!! (FOR INFINITE EXTENDED VERSION).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1491 - Zusammenbruch of Gott.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1495 - _ Erm, could it be a Spatiotemporal ShockWAVE Syndrome..._.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1496 - OUTERHEΛVEN.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1497 - Pulsar.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1498 - θコトノハθカプセルθ.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1499 - Butterfly Twist.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1500 - pique.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1501 - Teufel.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1502 - Übertreffen.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1503 - 蛇神.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1504 - Harmonia.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1505 - ランカーキラーガール.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1509 - VIVIDWAVERS.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1510 - ABSOLUTE (EUROBEAT REMIX).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1519 - Elemental Creation (kamome sano Remix).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1523 - Impress (bansou Remix).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1532 - SHION (ロースピード幻想チューン Remix).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1536 - Valanga(polysha Remix).mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1540 - MilK.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1541 - ULTRA B+K.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1542 - ANGER of the GOD.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1543 - ハレ トキドキ メランコリック.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1544 - Finally Dive -kors k Remix-.mp3
+May 21 11:18 : update: added foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/9001 - SOUND VOLTEX VIVID WAVE TUTORIAL.mp3
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/01 - あき - 月夜の泣き蟲.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/02 - 越田Rute隆人 - Lorelei's Melody.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/03 - Mortimer - More Than A Night.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/04 - まめみ - Mr Fantasy Star.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/05 - あき & あやぽんず＊ - Rabbit Carnival.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/06 - 越田Rute隆人 & あき - Usual Unordinary.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/07 - 越田Rute隆人 & あき - Drive Your Fire.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/08 - 越田Rute隆人 & あき Feat. ビートまりお - Happy Primrose.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/01 - はにーぽけっと - ゼンマイ恋時計 (T.E.B Summer Mix).flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/02 - ランコ - Dreamin' Girl.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/03 - あにろく！ Feat. 魔王デビル - Break Into The Dark.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/04 - Odyssey - Adequate.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/05 - Shihori - Bloody Night.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/06 - (V)・∀・(V) - Anything For You.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/07 - Odyssey & The DNA Team - Final Breath.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/08 - Nagisa Feat. Tetsuco - Wish Upon The Sky.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/09 - 3L - Leave My Key.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/10 - Axel.K - Get It Done.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/01 - あき - Darkish.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/02 - 越田Rute隆人 - Reason For Red.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/03 - Cocoa - ホワイト ドロップ.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/04 - 花たん - Veiling Shooter.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/05 - T. Stebbins - Rain Dance.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/06 - Nagisa - No Pain No Gain.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/07 - Akane - Love≒Gravitation.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/08 - 越田Rute隆人×あき - Scream Out!.flac
+May 21 11:18 : update: added foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/09 - あき - Rainy Sign.flac
+May 21 11:18 : update: removing foobar2000/[2000.03.08] Initial D D Best Selection/06. Max Coveri - Running in the 90_s.mp3
+May 21 11:18 : update: removing foobar2000/[2000.03.08] Initial D D Best Selection/23. Leslie Parrish - Killing My Love.mp3
+May 21 11:18 : update: removing foobar2000/[2000.03.08] Initial D D Best Selection/25. Dr. Love - Don_t Stand So Close.mp3
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-01. THE CANNONBALLER.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-02. ChaserXX.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-03. ACCELERATE.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-04. Back Spin Sweeper.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-05. HAT TRICK.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-06. Break Stasis.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-07. Exhaust Hype.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-08. Xperanza.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-10. Nothing but Theory.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-11. VOX RUSH.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-12. LUV DRIVE.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-13. うさ☆かめ 大戦争！.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-14. ハイxビスカス ft. Kanae Asaba.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-15. 1001 -ESCAPE-.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-16. ナイトシティー・アヴァンチュール.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-17. Midnight Lady.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-18. The Chase.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-19. SPEED.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-20. DEADHEAT.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-21. SPEED DEMON.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-22. COSMIC☆WONDER☆REVOLUTION.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-23. UMMU.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-24. Alpheratz.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-25. ラストセンチュリーメランコリック.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-27. O-Dx20.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-28. FUTURE is Dead.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-29. Acidiva 303.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-30. Hella Deep.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-31. Static State.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-32. Battleground.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-33. FREEDOM.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-34. Best of Me.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-09. Temple of Anubis.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-26. Abraxas.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-16. Exhaust Hype(Boost Up).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-02. Breakin' Chain.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-19. ディッシュウォッシャー◎彡おいわちゃん.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-01. crew.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-18. ECHIDNA(EXTENDED MIX).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-35. I'm Coming (2017 Version).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-01. Chemical Cookie.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-02. Amor De Verão.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-03. Get Up! feat. Kanae Asaba.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-04. Only for now.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-05. No Limit 2 dAnce feat. 大山愛未.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-06. I Love You.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-07. 純真可憐デザイア.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-08. 神謳 -RESONANCE-.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-09. 共犯へヴンズコード.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-10. エディブルフラワーの独白.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-11. Mira.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-12. 草原の王女-軌跡を辿って-.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-13. Arca.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-14. AA -rebuild-.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-15. THE CANNONBALLER(FULLSIZE MIX).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-17. FUTURE is Dead (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-18. FREEDOM(Extended Mix).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-19. Best of Me (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-20. Only for now - broken snow mix -.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-21. NITROUS CANNON.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-22. パラドキシカル・タイムリープトライアル.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-01. HADES.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-03. 禍根.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-04. 九尾狐夜行.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-05. Around The Galaxy.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-06. 焔極OVERKILL.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-07. Steel Edge.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-08. SAMURAI-Scramble.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-09. Yellow Sketch(RX-Ver.S.P.L.).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-10. SCREAM THE LIFE FEAT.KYONO.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-11. BabeL ～Grand Story～.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-12. 津軽雪.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-13. イザナミノナゲキ.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-14. Sky High.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-15. SEQUENCE CAT.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-16. 〆.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-17. Go Ahead!!.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-18. Honey Trap.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-20. GuNGNiR.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-21. Piano Samurai.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-22. HAPPY★RUSH.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-23. 月雪に舞う華のように.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-24. DORNWALD ～Junge～.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-25. BroGamer.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-26. FUZIN RIZIN.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-27. AO-∞.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-28. Shoot'Em All.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-29. Caterpillar.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-30. Egret and Willow.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-31. Warrior.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-32. Summerlights(IIDX Edition).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-33. Macuilxochitl.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-34. Quakes.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-35. Mare Nectaris.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-02. Venom.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-03. Cyber True Color.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-04. 恋はどう？モロ◎波動OK☆方程式!!.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-05. Vermilion.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-06. Lost wing at.0.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-07. 童話回廊.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-08. Apocalypse.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-09. Rave Cannon.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-10. yamabiko (SINOBUZ Edition).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-11. ECHIDNA.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-12. Beat Juggling Mix.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-13. RAIN.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-14. INVISIBLE STRIX.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-15. Snakey Kung-fu.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-16. 刃図羅.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-17. DORNWALD ～Der Junge im Käfig～.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-19. Steel Edge (Extended Mix).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-20. Honey Trap(EXTENDED MIX).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-21. 焔極OVERKILL(EXTENDED MIX).flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-22. 津軽雪　long ver. feat.岩崎愛子.flac
+May 21 11:18 : update: added foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-23. GuNGNiR(The Requiem’s EXTENDED MIX).flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/01 - The Angel's Message ft. Sennzai.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/02 - Unknown Civilization.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/03 - Viyella's Memory.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/04 - Experiment.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/05 - Destructive Creature.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/06 - Sound Chimera.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/07 - Pristine.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/08 - Longinus.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/09 - Universum.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/10 - Where's My Mom.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/11 - End of The World.flac
+May 21 11:18 : update: added foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/12 - Into The New World.flac
+May 21 11:18 : client: [1] closed
+May 21 11:18 : client: [2] opened from [::1]:38310
+May 21 11:19 : client: [2] closed
+May 21 11:19 : client: [3] opened from [::1]:38312
+May 21 11:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 21 11:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 11:20 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 11:20 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 11:20 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/06 - (V)・∀・(V) - Anything For You.flac"
+May 21 11:23 : client: [3] closed
+May 21 11:23 : client: [4] opened from [::1]:38318
+May 21 11:24 : client: [4] closed
+May 21 11:24 : client: [5] opened from [::1]:38320
+May 21 11:25 : client: [5] closed
+May 21 11:25 : client: [6] opened from [::1]:38322
+May 21 11:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 11:26 : client: [7] opened from 127.0.0.1:48320
+May 21 11:26 : client: [7] closed
+May 21 11:27 : client: [8] opened from 127.0.0.1:48322
+May 21 11:27 : client: [8] closed
+May 21 11:27 : client: [6] closed
+May 21 11:27 : client: [9] opened from [::1]:38330
+May 21 11:28 : client: [9] closed
+May 21 11:29 : client: [10] opened from [::1]:38418
+May 21 11:29 : client: [10] closed
+May 21 11:29 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-09 Massive New Krew feat.松平なな - Starry Night.flac"
+May 21 11:29 : client: [11] opened from [::1]:38420
+May 21 11:29 : client: [11] closed
+May 21 11:29 : client: [12] opened from [::1]:38422
+May 21 11:29 : client: [12] closed
+May 21 11:30 : client: [13] opened from [::1]:38424
+May 21 11:31 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-10. SCREAM THE LIFE FEAT.KYONO.flac"
+May 21 11:33 : client: [13] closed
+May 21 11:33 : client: [14] opened from [::1]:38484
+May 21 11:35 : client: [14] closed
+May 21 11:36 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/12 - BEMANI Sound Team ''TAG'' - BLO§OM.flac"
+May 21 11:38 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-11 BEMANI Sound Team Saori Watanabe - バスルーム ロマンス.flac"
+May 21 11:40 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/01 - BEMANI Sound Team ''T.Kakuta'' feat. 709sec. , 花たん - UNITE THE HEART.flac"
+May 21 11:42 : player: played "foobar2000/Dancerush Stardom GST/103 - 渚の小悪魔ラヴリィレイディオ (STARDOM Remix).mp3"
+May 21 11:45 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1475 - Nhelv.mp3"
+May 21 11:47 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1476 - AXION.mp3"
+May 21 11:49 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1396 - ツマミ戦隊 タテレンジャー.mp3"
+May 21 11:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 11:51 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-12 Remixed by BEMANI Sound Team PHQUASE feat.TRANDER Jr. - U.S.A..flac"
+May 21 11:53 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-02. ChaserXX.flac"
+May 21 11:55 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/06 - AJURIKA - TRIUMPH.flac"
+May 21 11:57 : player: played "foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/21 - kors k VS 猫叉Master+ - Chain of pain.flac"
+May 21 11:59 : player: played "foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/06 - 猫叉Master - Back to chronos.flac"
+May 21 11:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:01 : client: [15] opened from [::1]:38768
+May 21 12:01 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1425 - 熱情のサパデアード.mp3"
+May 21 12:01 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:03 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/13. Wain L - Make Up Your Mind.flac"
+May 21 12:09 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/15 - VINCENT GANATCH - GENE.flac"
+May 21 12:11 : player: played "foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/19 - DJ Shimamura - GET READY!!.flac"
+May 21 12:13 : player: played "foobar2000/Dancerush Stardom GST/77 - 最小三倍完全数 (DANCERUSH Style).mp3"
+May 21 12:15 : player: played "foobar2000/Dancerush Stardom GST/41 - Love Me.mp3"
+May 21 12:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:17 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/31 - Applekid - Mel.flac"
+May 21 12:22 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/07 - Akane - Love≒Gravitation.flac"
+May 21 12:27 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/01 - The Angel's Message ft. Sennzai.flac"
+May 21 12:31 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-15. THE CANNONBALLER(FULLSIZE MIX).flac"
+May 21 12:31 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:36 : player: played "foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/05 Last Fate.mp3"
+May 21 12:36 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:38 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-23 BEMANI Sound Team 謎の勢力 - Initiation.flac"
+May 21 12:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:40 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1449 - ゆりゆららららゆるゆり大事件（yuzen remix）.mp3"
+May 21 12:44 : player: played "foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/04 Alpharise.mp3"
+May 21 12:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:46 : player: played "foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/01 - S-C-U vs L.E.D. - DIAMOND CROSSING.flac"
+May 21 12:48 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-30. Egret and Willow.flac"
+May 21 12:50 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1398 - VIVID DEBUT!.mp3"
+May 21 12:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 21 12:52 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-14. AA -rebuild-.flac"
+May 21 12:55 : player: played "foobar2000/Dancerush Stardom GST/99 - Drop The Bounce.mp3"
+May 21 13:01 : player: played "foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_2/15 - USAO - Chrono Diver -PENDULUMs- (USAO remix).flac"
+May 21 13:03 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-05 DJ Noriken - dAuntl3ss.flac"
+May 21 13:10 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/12 - Into The New World.flac"
+May 21 13:12 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/10 - kors k - Sugar Drippin'.flac"
+May 21 13:16 : client: [16] opened from 127.0.0.1:49464
+May 21 13:16 : client: [16] closed
+May 21 14:31 : client: [15] closed
+May 21 14:31 : client: [0] closed
+May 21 14:31 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/07 - 越田Rute隆人 & あき - Drive Your Fire.flac"
+May 23 08:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 08:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 08:23 : client: [0] opened from 127.0.0.1:55316
+May 23 08:24 : client: [0] closed
+May 23 08:24 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/07 - 越田Rute隆人 & あき - Drive Your Fire.flac"
+May 23 12:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 12:26 : client: [0] opened from 127.0.0.1:43264
+May 23 12:26 : client: [1] opened from 127.0.0.1:43266
+May 23 12:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 12:26 : client: [1] closed
+May 23 12:26 : client: [2] opened from 127.0.0.1:43308
+May 23 12:26 : client: [2] closed
+May 23 12:50 : client: [3] opened from 127.0.0.1:43554
+May 23 12:50 : client: [3] closed
+May 23 12:50 : client: [4] opened from [::1]:60464
+May 23 12:52 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/07 - 越田Rute隆人 & あき - Drive Your Fire.flac"
+May 23 12:54 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-08. 神謳 -RESONANCE-.flac"
+May 23 12:54 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 12:56 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1510 - ABSOLUTE (EUROBEAT REMIX).mp3"
+May 23 12:57 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1351 - only my railgun／アニメ「とある科学の超電磁砲」より.mp3"
+May 23 13:00 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-22. HAPPY★RUSH.flac"
+May 23 13:00 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 13:02 : player: played "foobar2000/Dancerush Stardom GST/110 - Flying soda.mp3"
+May 23 13:03 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/07 - Remixed by BEMANI Sound Team ''HuΣeR feat.PON'' - EXCITE.flac"
+May 23 13:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 13:05 : player: played "foobar2000/Dancerush Stardom GST/64 - JOK3R.mp3"
+May 23 13:07 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1385 - SociuS.mp3"
+May 23 13:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 13:09 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/03 - BEMANI Sound Team ''Mutsuhiko Izumi'' - SIGMA.flac"
+May 23 13:12 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-19 ☆Taku Takahashi (m-flo, block.fm) - The Best of Both Worlds.flac"
+May 23 13:14 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-22 Dirty Androids - City Never Sleeps (IIDX Edition).flac"
+May 23 13:14 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 13:16 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1453 - 動く、動く（_A&M Chillin' _ Electro Remix）.mp3"
+May 23 13:16 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 13:18 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/23. Leslie Parrish - Killing My Love.flac"
+May 23 13:21 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-30 Pizuya's Cell - Let me be your cure.flac"
+May 23 13:23 : player: played "foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/15 - Y&Co. - Set U Free feat. Kanae Asaba.flac"
+May 23 13:28 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/07 - Pristine.flac"
+May 23 13:30 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-13 kradness - Glory.flac"
+May 23 13:34 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/20 - Dazsta - Drop It (Extended Mix).flac"
+May 23 13:36 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/4-06. Lost wing at.0.flac"
+May 23 13:38 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 3/01 - かめりあ - LOST TECHNOLOGIE.flac"
+May 23 13:40 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1380 - Barbatos.mp3"
+May 23 13:40 : client: [5] opened from 127.0.0.1:44372
+May 23 13:40 : client: [5] closed
+May 23 13:48 : client: [6] opened from 127.0.0.1:44642
+May 23 13:48 : client: [6] closed
+May 23 13:53 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 7 ~Mountain Of Faith~ (2012) [CD] [FLAC]/02 - 越田Rute隆人 - Reason For Red.flac"
+May 23 13:55 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-27 sasakure.UK - Xlø.flac"
+May 23 13:55 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 14:00 : player: played "foobar2000/BlackY's BEATFLOOR - Feel 7he Emotion (MP3 - 320)/01 Feel 7he Emotion.mp3"
+May 23 14:00 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 14:06 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-15 sanodg - From Time To Time (To Time Mix).flac"
+May 23 14:08 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/3-02 lapix - LIGHTS ft. EVO+.flac"
+May 23 14:10 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/01 - BEMANI Sound Team ''HuΣeR'' feat.Fernweh - VALKYRIAS -英雄誕生-.flac"
+May 23 14:12 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1462 - ΣgØ.mp3"
+May 23 14:17 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/07 - Odyssey & The DNA Team - Final Breath.flac"
+May 23 14:19 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-13 Remixed by BEMANI Sound Team TAG feat. 柊木りお - サクラあっぱれ-しょん.flac"
+May 23 14:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 14:21 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1423 - Believe (y)our Wings {GRA5P WAVES}.mp3"
+May 23 14:22 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1504 - Harmonia.mp3"
+May 23 14:24 : client: [7] opened from 127.0.0.1:45174
+May 23 14:24 : client: [7] closed
+May 23 14:25 : client: [4] closed
+May 23 14:25 : client: [0] closed
+May 23 14:25 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/21 - DJ Shimamura - Volcanic Dragon (Extended Mix).flac"
+May 23 14:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 14:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 14:26 : client: [0] opened from 127.0.0.1:58090
+May 23 14:26 : client: [0] closed
+May 23 14:26 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/21 - DJ Shimamura - Volcanic Dragon (Extended Mix).flac"
+May 23 20:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 20:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 20:58 : client: [0] opened from 127.0.0.1:42270
+May 23 20:58 : client: [1] opened from 127.0.0.1:42272
+May 23 20:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 20:58 : client: [1] closed
+May 23 20:59 : client: [2] opened from [::1]:60662
+May 23 21:01 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/21 - DJ Shimamura - Volcanic Dragon (Extended Mix).flac"
+May 23 21:01 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 21:03 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1454 - SAKURAスキップ（ハピネス mix）.mp3"
+May 23 21:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 21:05 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-08. 神謳 -RESONANCE-.flac"
+May 23 21:07 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/16 - BEMANI Sound Team ''L.E.D.-G'' - GO OVER WITH GLARE -ROOTAGE 26-.flac"
+May 23 21:09 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/3-24. DORNWALD ～Junge～.flac"
+May 23 21:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 21:11 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1416 - Bye or not.mp3"
+May 23 21:13 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1499 - Butterfly Twist.mp3"
+May 23 21:15 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1415 - V Sen5eS.mp3"
+May 23 21:17 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/1-15 Xceon - 夏の匂い。キミの残像。 ft. Kanae Asaba.flac"
+May 23 21:19 : player: played "foobar2000/Dancerush Stardom GST/06 - Garuda.mp3"
+May 23 21:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 21:21 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/04 - RoughSketch & TARACHINE - T-REX vs Velociraptor (In the Far east euphoria).flac"
+May 23 21:23 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-30. Hella Deep.flac"
+May 23 21:23 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 23 21:25 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1495 - _ Erm, could it be a Spatiotemporal ShockWAVE Syndrome..._.mp3"
+May 23 21:27 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/12 - lapix - & Intelligence.flac"
+May 23 21:29 : client: [3] opened from 127.0.0.1:42532
+May 23 21:29 : client: [3] closed
+May 23 21:40 : client: [0] closed
+May 23 21:40 : client: [4] opened from 127.0.0.1:42602
+May 23 21:40 : client: [4] closed
+May 23 21:40 : client: [5] opened from 127.0.0.1:42604
+May 23 21:40 : client: [5] closed
+May 23 21:40 : client: [6] opened from 127.0.0.1:42606
+May 23 21:41 : client: [6] closed
+May 23 21:41 : client: [7] opened from 127.0.0.1:42608
+May 23 21:41 : client: [7] closed
+May 23 21:41 : client: [8] opened from 127.0.0.1:42610
+May 23 21:41 : client: [8] closed
+May 23 21:41 : client: [9] opened from 127.0.0.1:42612
+May 23 21:42 : client: [9] closed
+May 23 21:42 : client: [10] opened from 127.0.0.1:42614
+May 23 21:42 : client: [11] opened from 127.0.0.1:42616
+May 23 21:42 : client: [10] closed
+May 23 21:42 : client: [11] closed
+May 23 21:42 : client: [12] opened from 127.0.0.1:42618
+May 23 21:43 : client: [12] closed
+May 23 21:43 : client: [13] opened from 127.0.0.1:42624
+May 23 21:45 : client: [13] closed
+May 23 21:45 : client: [14] opened from 127.0.0.1:42630
+May 23 21:46 : client: [14] closed
+May 23 21:46 : client: [15] opened from 127.0.0.1:42634
+May 23 21:46 : client: [15] closed
+May 23 21:46 : client: [2] closed
+May 23 21:46 : client: [16] opened from 127.0.0.1:42636
+May 23 21:48 : client: [16] closed
+May 23 21:48 : client: [17] opened from 127.0.0.1:42742
+May 23 21:49 : client: [17] closed
+May 23 21:49 : client: [18] opened from 127.0.0.1:42748
+May 23 21:49 : client: [18] closed
+May 23 21:49 : client: [19] opened from 127.0.0.1:42750
+May 23 21:50 : client: [19] closed
+May 23 21:50 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/14. Dave Rodgers - Beat of the Rising Sun.flac"
+May 24 09:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 09:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 09:56 : client: [0] opened from 127.0.0.1:36838
+May 24 09:57 : client: [0] closed
+May 24 09:57 : client: [1] opened from 127.0.0.1:36846
+May 24 10:01 : client: [2] opened from 127.0.0.1:36852
+May 24 10:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 10:01 : client: [2] closed
+May 24 10:01 : client: [3] opened from [::1]:51732
+May 24 10:02 : player: played "foobar2000/[2000.03.08] Initial D D Best Selection/14. Dave Rodgers - Beat of the Rising Sun.flac"
+May 24 10:02 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 10:03 : client: [3] closed
+May 24 10:07 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/01 - The Angel's Message ft. Sennzai.flac"
+May 24 10:10 : client: [4] opened from [::1]:51832
+May 24 10:12 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/02 - Unknown Civilization.flac"
+May 24 10:16 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/03 - Viyella's Memory.flac"
+May 24 10:20 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/04 - Experiment.flac"
+May 24 10:25 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/05 - Destructive Creature.flac"
+May 24 10:30 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/06 - Sound Chimera.flac"
+May 24 10:35 : client: [4] closed
+May 24 10:35 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/07 - Pristine.flac"
+May 24 10:39 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/08 - Longinus.flac"
+May 24 10:46 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/09 - Universum.flac"
+May 24 10:46 : client: [1] closed
+May 24 10:46 : client: [5] opened from 127.0.0.1:37088
+May 24 10:49 : client: [5] closed
+May 24 10:49 : client: [6] opened from 127.0.0.1:37092
+May 24 10:49 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/10 - Where's My Mom.flac"
+May 24 10:55 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/11 - End of The World.flac"
+May 24 11:03 : player: played "foobar2000/[LLCD-001] The Angel's Message (2018) [FLAC]/12 - Into The New World.flac"
+May 24 11:08 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/01 - あき - 月夜の泣き蟲.flac"
+May 24 11:12 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/02 - 越田Rute隆人 - Lorelei's Melody.flac"
+May 24 11:17 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/03 - Mortimer - More Than A Night.flac"
+May 24 11:21 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/04 - まめみ - Mr Fantasy Star.flac"
+May 24 11:26 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/05 - あき & あやぽんず＊ - Rabbit Carnival.flac"
+May 24 11:30 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/06 - 越田Rute隆人 & あき - Usual Unordinary.flac"
+May 24 11:35 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/07 - 越田Rute隆人 & あき - Drive Your Fire.flac"
+May 24 11:39 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/08 - 越田Rute隆人 & あき Feat. ビートまりお - Happy Primrose.flac"
+May 24 11:44 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/01 - はにーぽけっと - ゼンマイ恋時計 (T.E.B Summer Mix).flac"
+May 24 11:48 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/02 - ランコ - Dreamin' Girl.flac"
+May 24 11:53 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/03 - あにろく！ Feat. 魔王デビル - Break Into The Dark.flac"
+May 24 11:58 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/04 - Odyssey - Adequate.flac"
+May 24 12:02 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 4 ~Perfect Cherry Blossom~ (2011) [CD] [FLAC]/05 - Shihori - Bloody Night.flac"
+May 24 12:04 : client: [7] opened from [::1]:52168
+May 24 12:04 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:08 : player: played "10 - GAMEBOY.mp3"
+May 24 12:10 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1386 - Glorious Journey.mp3"
+May 24 12:12 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1396 - ツマミ戦隊 タテレンジャー.mp3"
+May 24 12:12 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:14 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/2-02. Amor De Verão.flac"
+May 24 12:16 : player: played "foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/12 - ni-21 - Acid Pumper.flac"
+May 24 12:18 : player: played "foobar2000/Dancerush Stardom GST/21 - Dual Bladez.mp3"
+May 24 12:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:20 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-05 lapix - Slipstream.flac"
+May 24 12:22 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1401 - 近未来百鬼夜行譚～死返之巻〜.mp3"
+May 24 12:22 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:24 : player: played "foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/06 - 星野奏子 - シュッパツシンコウ・シサカンコ.flac"
+May 24 12:26 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/4-01 Massive New Krew - Persephone.flac"
+May 24 12:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:28 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1305 - FlowerNation.mp3"
+May 24 12:30 : player: played "foobar2000/Dancerush Stardom GST/31 - Bad Riddim.mp3"
+May 24 12:32 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1424 - スイーツはとまらない♪.mp3"
+May 24 12:36 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/08 - 越田Rute隆人 & あき Feat. ビートまりお - Happy Primrose.flac"
+May 24 12:38 : player: played "foobar2000/[KONAMI]beatmania IIDX 25 CANNON BALLERS ORIGINAL SOUNDTRACK/1-29. Acidiva 303.flac"
+May 24 12:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:40 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1382 - Xicholauncher.mp3"
+May 24 12:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 12:42 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 4/03 - bermei.inazawa,feat.霜月はるか - 泰東ノ翠霞.flac"
+May 24 12:44 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 1/19 - BEMANI Sound Team ''劇団レコード'' - OUTER PLANETS.flac"
+May 24 12:49 : player: played "foobar2000/beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK [FLAC] {LC2388-91}/2-16 Pizuya's Cell - Let me be your cure -long version-.flac"
+May 24 12:51 : player: played "foobar2000/beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.2/DISC_1/27 - 猫叉L.E.D.Master+ - Chrono Diver -PENDULUMs-.flac"
+May 24 12:53 : player: played "foobar2000/beatmania IIDX 27 HEROIC Verse Original Soundtrack (2020) [FLAC]/Disc 2/13 - Fujishiro feat. KNA - And-RoiD.flac"
+May 24 12:55 : player: played "foobar2000/beatmania IIDX 23 copula ORIGINAL SOUNDTRACK/DISC_1/25 - SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi - SURVIVOR.flac"
+May 24 12:58 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1343 - Jack-the-Ripper◆.mp3"
+May 24 12:59 : player: played "foobar2000/Dancerush Stardom GST/113 - Saturday Night Love.mp3"
+May 24 13:01 : player: played "foobar2000/SOUND VOLTEX VIVID WAVE GST (20200115)/1462 - ΣgØ.mp3"
+May 24 13:01 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 24 13:05 : client: [8] opened from 127.0.0.1:37424
+May 24 13:05 : client: [8] closed
+May 24 13:05 : client: [7] closed
+May 24 13:05 : client: [6] closed
+May 24 13:05 : player: played "foobar2000/Various Artists - Toho Eurobeat Vol. 16 -永夜抄- (2017) [CD] [FLAC]/01 - あき - 月夜の泣き蟲.flac"
+May 24 20:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 20:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 20:09 : client: [0] opened from 127.0.0.1:46150
