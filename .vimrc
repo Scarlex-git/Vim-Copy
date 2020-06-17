@@ -2,17 +2,17 @@ set nocompatible                " required
 filetype off                    " required
 
 let $PYTHONPATH="/usr/lib/python3.8/site-packages"
-"Enable folding
 set number
 set relativenumber
 
 syntax enable
 set cursorline
+set foldlevel=99
+set cmdheight=1
+set cc=80
 call plug#begin('~/.vim/plugged')
+
  
-set foldmethod=manual
-"Enable folding using the spacebar
-nnoremap <space> za
 " Remap arrow keys to nothing
 noremap <Up> <Nop> 
 noremap <Left> <Nop> 
@@ -57,6 +57,8 @@ set hidden
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
 
+"Remove .git and venv from search
+let g:ctrlp_custom_ignore = 'venv\|git\|__pycache__'
 "Open directory if nothing opened
 let g:ctrlp_working_path_mode = 'ra'
 
