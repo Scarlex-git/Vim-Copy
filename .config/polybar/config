@@ -1,25 +1,7 @@
-;==========================================================
-;
-;
-;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
-;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
-;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
-;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
-;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
-;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-;
-;
-;   To learn more about how to configure Polybar
-;   go to https://github.com/polybar/polybar
-;
-;   The README contains a lot of information
-;
-;==========================================================
-
 [colors]
 ;background = ${xrdb:color0:#222}
 background = #aa222222
-background-alt = #00000000
+background-alt = #ee222222
 ;foreground = ${xrdb:color7:#222}
 foreground = #fbf1c7
 foreground-alt = #fe8019
@@ -41,8 +23,8 @@ line-size = 0
 line-color = #00000000
 border-size = 0
 border-color = #00000000
-padding-left = 4
-padding-right = 4
+padding-left = 0
+padding-right = 2
 module-margin-left = 2
 module-margin-right = 2
 font-0 = Noto Sans CJK JP:style=Bold:size=8;1
@@ -52,7 +34,7 @@ modules-left = bspwm
 modules-center = mpd
 modules-right = filesystem pulseaudio cpu temperature date powermenu
 ;removed : xbacklight,memory pulseaudio xkeyboard wlan eth battery
-tray-position = left
+tray-position = right
 tray-padding = 0
 ;tray-background = #0063ff
 
@@ -102,21 +84,28 @@ label-unmounted-foreground = ${colors.foreground-alt}
 [module/bspwm]
 type = internal/bspwm
 
-label-focused = %index%
-label-focused-background = ${colors.background-alt}
-label-focused-underline= ${colors.primary}
-label-focused-padding = 2
 
-label-occupied = %index%
-label-occupied-padding = 2
+label-focused = ﰟ
+;label-focused-background = ${colors.background-alt}
+label-focused-background = #99ff4545
+label-focused-foreground = #ddefef
+label-focused-padding = 1
 
-label-urgent = %index%!
-label-urgent-background = ${colors.alert}
-label-urgent-padding = 2
+label-occupied = ﰟ
+label-occupied-background = #55ff3939
+label-occupied-foreground = #ddefef
+label-occupied-padding = 1
 
-label-empty = %index%
-label-empty-foreground = ${colors.foreground-alt}
-label-empty-padding = 2
+label-urgent = ﰟ!
+label-urgent-background = #88ff5959
+;label-urgent-background = ${colors.alert}
+label-urgent-padding = 1
+
+label-empty = ﰟ
+label-empty-underling = #88ff3939
+label-empty-foreground = #ddff5959
+label-empty-background = #55ff3535
+label-empty-padding = 1
 
 ; Separator in between workspaces
 ; label-separator = |
